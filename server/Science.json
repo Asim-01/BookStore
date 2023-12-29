@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "6581d43a02380d16087ec56e"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Sapiens",
+  "author": "Yuval Noah Harari",
+  "genre": "Science",
+  "year": 2015,
+  "description": "'Interesting and provocative... It gives you a sense of how briefly we've been on this Earth' Barack Obama\n\nWhat makes us brilliant? What makes us deadly? What makes us Sapiens?\n\nOne of the world's preeminent historians and thinkers, Yuval Noah Harari challenges everything we know about being human.\n\nEarth is 4.5 billion years old. In just a fraction of that time, one species among countless others has conquered it: us.\n\nIn this bold and provocative book, Yuval Noah Harari explores who we are, how we got here and where we're going.\n\n**ONE OF THE GUARDIAN'S 100 BEST BOOKS OF THE 21st CENTURY**",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/713jIoMO3UL._SY466_.jpg",
+  "isbn": "0099590085",
+  "pagesCount": 512,
+  "price": 468,
+  "creationDate": {
+    "$date": "2023-12-19T17:34:50.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581d48f02380d16087ec573"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Power of Your Subconscious Mind",
+  "author": " Joseph Murphy ",
+  "genre": "Science",
+  "year": 2015,
+  "description": "This remarkable book by Dr. Joseph Murphy, one of the pioneering voices of affirmative thinking, will unlock for you the truly staggering powers of your subconscious mind. Combining time-honored spiritual wisdom with cutting edge scientific research, Dr. Murphy explains how the subconscious mind influences every single thing that you do and how, by understanding it and learning to control its incredible force, you can improve the quality of your daily life.Everything, from the promotion that you wanted and the raise you think you deserve, to overcoming phobias and bad habits and strengthening interpersonal relationships, the Power of Your Subconscious Mind will open a world of happiness, success, prosperity and peace for you. It will change your life and your world by changing your beliefs.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61jBLw5Bq9L._SY466_.jpg",
+  "isbn": "8172345666",
+  "pagesCount": 256,
+  "price": 99,
+  "creationDate": {
+    "$date": "2023-12-19T17:36:15.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581d4f802380d16087ec578"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "HOOKED ",
+  "author": " Nir Eyal",
+  "genre": "Science",
+  "year": 2014,
+  "description": "Nir Eyal reveals how successful companies create products people can't put down - and shows how you can do it too.\n\nINTERNATIONAL BESTSELLER WITH OVER 500,000 COPIES SOLD WORLDWIDE\n\nBased on years of research, consulting, and practical experience, Hooked:\n\n* Shows how to create user habits that stick\n* Includes practical insights and riveting examples, from the iPhone to Twitter, Pinterest and the Bible App\n* Explains how products influence our behaviour\n\n'A must-read for everyone who cares about driving customer engagement' Eric Ries, author of The Lean Startup\n\n'The most high bandwidth, high octane, and valuable presentation I have ever seen on this subject' Rory Sutherland, vice chairman, Ogilvy & Mather",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81L8JOVXJtL._SY466_.jpg",
+  "isbn": "0241184835",
+  "pagesCount": 256,
+  "price": 487,
+  "creationDate": {
+    "$date": "2023-12-19T17:38:00.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581d55902380d16087ec57d"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Black Holes",
+  "author": "Stephen Hawking ",
+  "genre": "Science",
+  "year": 2016,
+  "description": "“It is said that fact is sometimes stranger than fiction, and nowhere is that more true than in the case of black holes. Black holes are stranger than anything dreamed up by science fiction writers.”\n\nIn 2016 Professor Stephen Hawking delivered the BBC Reith Lectures on a subject that fascinated him for decades – black holes.\n\nIn these flagship lectures the legendary physicist argued that if we could only understand black holes and how they challenge the very nature of space and time, we could unlock the secrets of the universe.\n\n",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/91elhBJsITL._SY466_.jpg",
+  "isbn": "085750357X",
+  "pagesCount": 80,
+  "price": 96,
+  "creationDate": {
+    "$date": "2023-12-19T17:39:37.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581d5c102380d16087ec582"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Selfish Gene",
+  "author": " Richard Dawkins ",
+  "genre": "Science",
+  "year": 2016,
+  "description": "The million copy international bestseller, critically acclaimed and translated into over 25 languages. As influential today as when it was first published, The Selfish Gene has become a classic exposition of evolutionary thought. Professor Dawkins articulates a gene's eye view of evolution - a view giving center stage to these persistent units of information and in which organisms can be seen as vehicles for their replication. This imaginative, powerful and stylistically brilliant work not only brought the insights of Neo-Darwinism to a wide audience, but galvanized the biology community, generating much debate and stimulating whole new areas of research. Forty years later, its insights remain as relevant today as on the day it was published. This 40th anniversary edition includes a new epilogue from the author discussing the continuing relevance of these ideas in evolutionary biology today, as well as the original prefaces and foreword and extracts from early reviews. Oxford Landmark Science books are 'must-read' classics of modern science writing which have crystallized big ideas and shaped the way we think.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61CXvkfdXlL._SY466_.jpg",
+  "isbn": "0198788606",
+  "pagesCount": 496,
+  "price": 320,
+  "creationDate": {
+    "$date": "2023-12-19T17:41:21.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581d63302380d16087ec587"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Brain",
+  "author": " David Eagleman ",
+  "genre": "Science",
+  "year": 2016,
+  "description": "Locked in the silence and darkness of your skull, your brain fashions the rich narratives of your reality and your identity. Join renowned neuroscientist David Eagleman for a journey into the questions at the mysterious heart of our existence. What is reality? Who are “you”? How do you make decisions? Why does your brain need other people? How is technology poised to change what it means to be human?  In the course of his investigations, Eagleman guides us through the world of extreme sports, criminal justice, facial expressions, genocide, brain surgery, gut feelings, robotics, and the search for immortality.  Strap in for a whistle-stop tour into the inner cosmos. In the infinitely dense tangle of billions of brain cells and their trillions of connections, something emerges that you might not have expected to see in there: you. \n \nThis is the story of how your life shapes your brain, and how your brain shapes your life. ",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81Uig65WakL._SY466_.jpg",
+  "isbn": "1782116613",
+  "pagesCount": 256,
+  "price": 428,
+  "creationDate": {
+    "$date": "2023-12-19T17:43:15.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581d6a702380d16087ec58c"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Relativity",
+  "author": " Albert Einstein",
+  "genre": "Science",
+  "year": 2013,
+  "description": "Albert Einstein is the unquestioned founder of modern physics. His theory of relativity is the most important scientific idea of the modern era. In this book Einstein explains, using the minimum of mathematical terms, the basic ideas and principles of the theory which has shaped the world we live in today. Unsurpassed by any subsequent books on relativity, this remains the most popular and useful exposition of Einstein’s immense contribution to human knowledge.\n\nIn this work Einstein intended, as far as possible, to give an exact insight into the theory of relativity to those readers who, from a general and scientific philosophical point of view, are interested in the theory, but who are not conversant with the mathematical apparatus of theoretical physics. The theory of relativity enriched physics and astronomy during the 20th century.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/6177hCt1X2L._SY466_.jpg",
+  "isbn": "9380914229",
+  "pagesCount": 200,
+  "price": 179,
+  "creationDate": {
+    "$date": "2023-12-19T17:45:11.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581d81a02380d16087ec591"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Hyperspace",
+  "author": "Michio Kaku",
+  "genre": "Science",
+  "year": 1995,
+  "description": "From the renowned theoretical physicist and national bestselling author of The God Equation comes the first book-length exploration of the most exciting development in modern physics: the theory of 10-dimensional space.\n\n\"Among the best of its genre to appear in recent years...What a wonderful adventure it is, trying to think the unthinkable!\" —The New York Times Book Review\n\nThe theory of hyperspace, which Michio Kaku pioneered, may be the leading candidate for the Theory of Everything that Einstein spent the remaining years of his life searching for.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61koVOT1bmL._SY466_.jpg",
+  "isbn": "0385477058",
+  "pagesCount": 384,
+  "price": 628,
+  "creationDate": {
+    "$date": "2023-12-19T17:51:22.333Z"
+  },
+  "__v": 0
+}]

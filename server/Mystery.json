@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "6581c57302380d16087ec4ea"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Crime And Punishment",
+  "author": " Fyodor Dostoyevsky",
+  "genre": "Mystery",
+  "year": 2017,
+  "description": "Immerse yourself in the dark and psychological depths of Crime and Punishment by Fyodor Dostoevsky. Follow the tormented Raskolnikov as he grapples with guilt, morality, and the consequences of his actions in this gripping masterpiece of Russian literature.\n\nA gripping psychological thriller!\n\nFyodor Dostoevsky's compelling exploration of guilt, redemption, and the human psyche\nGripping portrayal of a troubled protagonist caught in a web of his own crimes\nExamines themes of morality, justice, and the nature of evil\nRichly drawn characters and an atmospheric setting that immerse readers in 19th-century Russia\nA timeless classic that delves into the complexities of the human condition with unparalleled depth and intensity",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51MEKpX+7eL._SY445_SX342_.jpg",
+  "isbn": "9789386538055",
+  "pagesCount": 584,
+  "price": 349,
+  "creationDate": {
+    "$date": "2023-12-19T16:31:47.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c66502380d16087ec4f1"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Six of Crows",
+  "author": " BARDUGO LEIGH",
+  "genre": "Mystery",
+  "year": 2018,
+  "description": "*The Grishaverse will be coming to Netflix soon with Shadow and Bone, an original series!*A glorious Collector's Edition of New York Times bestselling, epic fantasy novel, SIX OF CROWS. Beautifully designed, with an exclusive letter from the author and six stunning full-colour character portraits. This covetable hardback with red sprayed edges is a perfect gift for fans, and a perfect way to discover the unforgettable writing of Leigh Bardugo.Criminal prodigy Kaz Brekker is offered a chance at a deadly heist: break into the Ice Court - a military stronghold that has never been breached - and retrieve a hostage whose knowledge could change Grisha magic forever. To succeed would mean riches beyond his wildest dreams - but he can't pull it off alone . . .A convict with a thirst for revenge. A sharpshooter who can't walk away from a wager.A runaway with a privileged past. A spy known as the Wraith. A Heartrender using her magic to survive the slums. A thief with a gift for unlikely escapes. Six dangerous outcasts. One impossible heist. Together they might just be unstoppable - if they don't kill each other first.'Fast, thrilling heist fantasy, boasting a brilliant new cast of characters.' METRO'A full-throttle adventure . . . crackling dialogue and sumptuous description. Bardugo dives deep into this world.' - NEW YORK TIMES",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/91-JO-S2bFL._SY466_.jpg",
+  "isbn": "1510106286",
+  "pagesCount": 512,
+  "price": 349,
+  "creationDate": {
+    "$date": "2023-12-19T16:35:49.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c6c202380d16087ec4f6"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Dark Matter",
+  "author": " Blake Crouch",
+  "genre": "Mystery",
+  "year": 2017,
+  "description": "'Brilliant. . . I think Blake Crouch just invented something new' Lee Child, author of the Jack Reacher series.From Blake Crouch, the author of the bestselling Wayward Pines trilogy, Dark Matter is sweeping and intimate, mind-bendingly strange and profoundly human ? a relentlessly surprising thriller about choices, paths not taken, and how far we'll go to claim the lives we dream of, perfect for fans of Stranger Things and Ready Player One.'Are you happy in your life?'Those are the last words Jason Dessen hears before the masked abductor knocks him unconscious. Before he awakes to find himself strapped to a gurney, surrounded by strangers in hazmat suits. Before the man he's never met smiles down at him and says, 'Welcome back.'In this world he's woken up to, Jason's life is not the one he knows. His wife is not his wife. His son was never born. And Jason is not an ordinary college physics professor, but a celebrated genius who has achieved something remarkable. Something impossible.Is it this world or the other that's the dream? And even if the home he remembers is real, how can Jason possibly make it back to the family he loves? The answers lie in a journey more wondrous and horrifying than anything he could've imagined ? one that will force him to confront the darkest parts of himself even as he battles a terrifying, seemingly unbeatable foe.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81xS77gfCgL._SY466_.jpg",
+  "isbn": "9781447297581",
+  "pagesCount": 416,
+  "price": 455,
+  "creationDate": {
+    "$date": "2023-12-19T16:37:22.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c71902380d16087ec4fb"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "LOST SYMBOL",
+  "author": "BROWN DAN",
+  "genre": "Mystery",
+  "year": 2010,
+  "description": "\nThe Capitol Building, Washington DC: Harvard symbologist Robert Langdon believes he is here to give a lecture. He is wrong. Within minutes of his arrival, a shocking object is discovered. It is a gruesome invitation into an ancient world of hidden wisdom.\n\nWhen Langdon's mentor, Peter Solomon - prominent mason and philanthropist - is kidnapped, Langdon realizes that his only hope of saving his friend's life is to accept this mysterious summons.\n\nIt is to take him on a breathless chase through Washington's dark history. All that was familiar is changed into a shadowy, mythical world in which Masonic secrets and never-before-seen revelations seem to be leading him to a single impossible and inconceivable truth...",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81BlXbpNmuL._SY466_.jpg",
+  "isbn": "0552161233",
+  "pagesCount": 688,
+  "price": 355,
+  "creationDate": {
+    "$date": "2023-12-19T16:38:49.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c77802380d16087ec500"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Hamlet",
+  "author": " William Shakespeare ",
+  "genre": "Mystery",
+  "year": 2015,
+  "description": "In the Kingdom of Denmark, on a cold winter night, appears the ghost of the deceased King..What happens when Hamlet, the Prince of Denmark, encounters his father?s ghost which reveals to him the secrets of his father?s murder, laying upon him the duty of revenge?Unconvinced and indecisive, Hamlet?the Prince of Demark, re-enacts the murder to find the truth. Will he be able to unmask and avenge the brutal and cold-blooded murder of his father? Will his inner struggle between taking a revenge and his propensity to delay thwart his desires to act?A typical Elizabethan Revenge Play, Hamlet is Shakespeare?s longest play and one of the most quoted works in English language. it is described as ?the world?s most filmed story after Cinderella?.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61ewyOG0IZS._SY466_.jpg",
+  "isbn": "9788175992924",
+  "pagesCount": 200,
+  "price": 114,
+  "creationDate": {
+    "$date": "2023-12-19T16:40:24.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c7de02380d16087ec50e"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Macbeth",
+  "author": "William Shakespeare ",
+  "genre": "Mystery",
+  "year": 2016,
+  "description": "Enter the dark and captivating world of Shakespeare's tragedy with Macbeth. This timeless play takes you on a thrilling journey through ambition, power, and the destructive forces of guilt. Immerse yourself in the gripping tale of Macbeth's tragic downfall, where supernatural elements and human frailties collide.\n\nA must-read for fans of Shakespearean drama and literary enthusiasts\nEssential resource for students, scholars, and lovers of literature\nA beautifully designed edition that is a valuable addition to any book collection\nFeatures a new introduction and notes by a leading Shakespeare scholar\nIntriguing blend of supernatural elements and human frailties",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51EwEqnnuVL._SY466_.jpg",
+  "isbn": "9788175994195",
+  "pagesCount": 160,
+  "price": 99,
+  "creationDate": {
+    "$date": "2023-12-19T16:42:06.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c83a02380d16087ec513"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Modern Break-Up",
+  "author": "Daniel Chidiac",
+  "genre": "Mystery",
+  "year": 2021,
+  "description": " \"Now I know what all the hype is about! Such a relatable read!\" - Addison Rae, Actress___A novel full of truths about dating, separations and love: direct, raw and damn revealing!After a sudden end with another guy she finally opened-up to, Amelia is thrown into a vortex of conflicting thoughts and emotions.Once again, she is forced to reflect on her life and what dating means in the modern world.The answers she finds, especially through a new male friend who unveils the way guys \"really\" think, makes her even more determined to find something more real.It all helps set her free...maybe...\"I resonated with the characters so much, especially Amelia. It's not just a story about a breakup, but so much more and deeper than that.\" - Demi Rose, Model\"Honestly, blew my mind how accurate it is. Definitely recommend!\" - Lizzie Sobinoff, Married At First Sight (MAFS)The Modern Break-Up was listed among the top romance novels to read by P.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51RV42m6wVL._SY466_.jpg",
+  "isbn": "0987166557",
+  "pagesCount": 244,
+  "price": 289,
+  "creationDate": {
+    "$date": "2023-12-19T16:43:38.008Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c9f902380d16087ec51a"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Where the Crawdads Sing",
+  "author": " Delia Owens",
+  "genre": "Mystery",
+  "year": 2019,
+  "description": "*The multi-million copy bestseller*Soon to be a major filmA Number One New York Times Bestseller'Painfully beautiful' New York Times'Unforgettable . . . as engrossing as it is moving' Daily Mail'A rare achievement' The Times 'I can't even express how much I love this book!' Reese Witherspoon-------------------------------------------------For years, rumors of the 'Marsh Girl' have haunted Barkley Cove, a quiet town on the North Carolina coast. So in late 1969, when handsome Chase Andrews is found dead, the locals immediately suspect Kya Clark, the so-called Marsh Girl. But Kya is not what they say. Sensitive and intelligent, she has survived for years alone in the marsh that she calls home, finding friends in the gulls and lessons in the sand. Then the time comes when she yearns to be touched and loved. When two young men from town become intrigued by her wild beauty, Kya opens herself to a new life - until the unthinkable happens.-------------------------------------------------'[It] will reach a huge audience through the writer's old-fashioned talents for compelling character, plotting and landscape description' The Guardian 'For sheer escapism pick up Where The Crawdads Sing . . . there is writing that takes your breath away' The Times'All is not as it seems in this heartbreaking coming-of-age bestseller' The i newspaper",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81e+mSqZvnL._SY466_.jpg",
+  "isbn": "1472154665",
+  "pagesCount": 384,
+  "price": 289,
+  "creationDate": {
+    "$date": "2023-12-19T16:51:05.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581ca6602380d16087ec521"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "REBECCA ",
+  "author": "Daphne Du Maurier",
+  "genre": "Mystery",
+  "year": 2003,
+  "description": "One of the most famous novels of the 20th century. A gothic tale of love, murder and secrets.'Rebecca has woven its way into the fabric of our culture with all the troubling power of myth or dream.' Sarah Waters'Rebecca is a masterpiece' GuardianWorking as a lady's companion, the orphaned heroine of Rebecca learns her place. Life begins to look very bleak until, on a trip to the South of France, she meets Maxim de Winter, a handsome widower whose sudden proposal of marriage takes her by surprise. Whisked from glamorous Monte Carlo to his brooding estate, Manderley, on the Cornish Coast, the new Mrs de Winter finds Max a changed man. And the memory of his dead wife Rebecca is forever kept alive by the forbidding Mrs Danvers . . . Not since Jane Eyre has a heroine faced such difficulty with the Other Woman. An international bestseller that has never gone out of print, Rebecca is the haunting story of a young girl consumed by love and the struggle to find her identity.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81PyWcpC0xL._SY466_.jpg",
+  "isbn": "9781844080380",
+  "pagesCount": 448,
+  "price": 393,
+  "creationDate": {
+    "$date": "2023-12-19T16:52:54.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581cac602380d16087ec526"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Godfather",
+  "author": "Mario Puzo ",
+  "genre": "Mystery",
+  "year": 1991,
+  "description": "A legend is born\nMario Puzo's novel, The Godfather, has dominated the cinema and book culture for years and left behind an unparalleled legacy. The superlatives used to describe the life and times of Don Corleone, a renowned Sicilian mobster and a feared mafia lord of the Cosa Nostra in the 60's New York and his familial ties portray a powerful picture of the mafia world. The characters have been described as gritty and hardened at first; but slowly the novel reveals how greed and ambition transforms a man from a powerful entity to a sad microcosm. Amidst all the violence and chaos, readers are left with the most spine-chilling questions of all: How far would you go to save your family?",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61RZI1cKZUL._SY466_.jpg",
+  "isbn": "0099429284",
+  "pagesCount": 608,
+  "price": 250,
+  "creationDate": {
+    "$date": "2023-12-19T16:54:30.617Z"
+  },
+  "__v": 0
+}]

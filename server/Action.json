@@ -1,0 +1,384 @@
+[{
+  "_id": {
+    "$oid": "6581a22302380d16087ec316"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Complete Sherlock Holmes",
+  "author": "Arthur Conan Doyle ",
+  "genre": "Action,Adventure",
+  "year": 2023,
+  "description": "This book is a collection of the four novels written by Sir Arthur Conan Doyle: A Study in Scarlet (1887), The Sign of the Four (1890), The Hound of the Baskervilles (1902) and The Valley of Fear (1915). Featuring the timeless detective Sherlock Holmes, these novels have been successfully engrossing readers for more than a century now.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/513-sDRdxsL._SY466_.jpg",
+  "isbn": "8119660153",
+  "pagesCount": 496,
+  "price": 168,
+  "creationDate": {
+    "$date": "2023-12-19T14:01:07.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581a33502380d16087ec329"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Book Thief",
+  "author": "Markus Zusak ",
+  "genre": "Action,Adventure",
+  "year": 2016,
+  "description": "HERE IS A SMALL FACT - YOU ARE GOING TO DIE\n\n1939. Nazi Germany. The country is holding its breath. Death has never been busier.\nLiesel, a nine-year-old girl, is living with a foster family on Himmel Street. Her parents have been taken away to a concentration camp. Liesel steals books. This is her story and the story of the inhabitants of her street when the bombs begin to fall.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71Ge374aXuL._SY466_.jpg",
+  "isbn": "9781909531611",
+  "pagesCount": 624,
+  "price": 196,
+  "creationDate": {
+    "$date": "2023-12-19T14:05:41.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581a3e302380d16087ec332"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Traitors Gate",
+  "author": "Jeffrey Archer ",
+  "genre": "Action,Adventure",
+  "year": 2023,
+  "description": "But this year, everything is about to change. Because master criminal Miles Faulkner has set his heart on pulling off the most outrageous theft in history – and with a man on the inside, the odds are in his favour Impenetrable. Well protected. Secure. Home to the most valuable jewels on earth. But once a year, the Metropolitan Police must execute the most secret operation in their armoury when they transport the Crown Jewels across London.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71CXmYNmlPL._SY466_.jpg",
+  "isbn": "0008474370",
+  "pagesCount": 384,
+  "price": 319,
+  "creationDate": {
+    "$date": "2023-12-19T14:08:35.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581a47402380d16087ec33b"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Kill the Lawyers",
+  "author": "Shishir Vayttaden",
+  "genre": "Action,Adventure",
+  "year": 2023,
+  "description": "Set around the guns for hire at a fictional Bombay law firm, Kill the Lawyers renders a hilarious account of Big Law-the industry term for large, full-service corporate law firms.\n\nIt debuts Edamarra Edwin, an irreverent junior partner who frolics with the law while helping friends and clients through their direst straits. In nine droll stories, Edwin wiles out victory from the most hopeless situations with a little help from his spunky young associate and an old Bombay 'operator'. In their wandering timeline these stories chart the arc of Edwin's astonishing rise in life.\n\nShishir Vayttaden's long experience as a corporate lawyer gives authenticity to this work of pure fiction, and his skill as a storyteller makes it both deeply engaging and immensely amusing.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81waHOPUvXL._SY466_.jpg",
+  "isbn": "935640464X",
+  "pagesCount": 208,
+  "price": 367,
+  "creationDate": {
+    "$date": "2023-12-19T14:11:00.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581a51502380d16087ec354"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "THE SILENT PATIENT ",
+  "author": "Alex Michaelides",
+  "genre": "Action,Adventure",
+  "year": 2019,
+  "description": "WITH OVER THREE MILLION COPIES SOLD, read the Sunday Times and No.1 New York Times bestselling, record-breaking thriller that everyone is talking about - soon to be a major film. 'The perfect thriller' AJ FINN 'Terrific' - THE TIMES Crime Book of the Month 'Smart, sophisticated suspense' - LEE CHILD 'Compelling' - OBSERVER 'Absolutely brilliant' - STEPHEN FRY 'A totally original psychological mystery' - DAVID BALDACCI 'One of the best thrillers I've read this year' - CARA HUNTER 'The pace and finesse of a master' - BBC CULTURE Alicia Berenson lived a seemingly perfect life until one day six years ago.When she shot her husband in the head five times. Since then she hasn't spoken a single word.It's time to find out why. THE SILENT PATIENT is the gripping must-read thriller of the year - perfect for fans of THE FAMILY UPSTAIRS by Lisa Jewell, BLOOD ORANGE by Harriet Tyce and PLAYING NICE by JP Delaney.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81JJPDNlxSL._SY466_.jpg",
+  "isbn": "1409181634",
+  "pagesCount": 352,
+  "price": 218,
+  "creationDate": {
+    "$date": "2023-12-19T14:13:41.743Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581a5a502380d16087ec359"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Once a Thief",
+  "author": "Christopher Reich",
+  "genre": "Action,Adventure",
+  "year": 2023,
+  "description": "Simon Riske sits in sun-dappled Napa Valley, toasting the record hundred-million-dollar sale of a rare 1963 Ferrari which he restored himself. The buyer, a sophisticated French woman, Sylvie Bettencourt, has purchased the car for an unnamed client whose anonymity she will guard at all costs. Riske enjoys her company and the flowing champagne until Sylvie’s formidable Russian bodyguard storms in, claiming the vehicle is a fake. Riske is given an ultimatum. Prove the car is the real thing…or else.\n \nMeanwhile, in Lugano, Switzerland, Carl Bildt, banker to the rich and nefarious, is killed by a powerful car bomb, moments before he can deliver evidence to the authorities and disappear into witness protection. His beautiful and headstrong daughter, Anna, rushes to Switzerland to investigate her father’s violent death.\n \nAs Simon Riske strives to prove the Ferraris’ authenticity and look deeper into Sylvie’s past–and the identity of her client—he crosses paths with Anna Bildt and discovers they have an enemy in common.  From the bustling streets of London to a secret outpost high in the French Alps, from the freeports of Corsica to the glittering beaches of the Costa Smeralda, the Emerald Coast, of Sardinia, Riske and Anna find themselves players in a deadly game, where billions of dollars change hands and knowledge is paid for with your life.\n \nTold with Reich’s signature stylish prose, clever plotting, and pulse-pounding action sequences, Once a Thief, is sure to appeal to longtime fans of the series and newcomers alike. Riske may be a bit older, showing a little wear and tear, but his desire to get the job done at any cost is stronger than ever.\n \n\n",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81pCpZVkP5L._SY466_.jpg",
+  "isbn": "0316456101",
+  "pagesCount": 352,
+  "price": 1346,
+  "creationDate": {
+    "$date": "2023-12-19T14:16:05.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581a7f102380d16087ec377"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Kate Hamilton Mysteries",
+  "author": "Melody Simmons",
+  "genre": "Action,Adventure",
+  "year": 2021,
+  "description": "oin teacher Kate Hamilton as she puzzles her way through crimes from rural Virginia to inner city Washington D.C. in this USA Today bestselling series.\nMINE\nA sleepy town in southwest Virginia wakes up to a nightmare of untimely deaths.\n\nNot safe at home in Boston, science teacher Kate Hamilton seeks refuge in the small Virginia town where she was born and raised.\n\nScarborough is no longer the bucolic village that she remembered. Pleasantries are only skin deep as big city issues and the politics of the world roil just under the surface.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71Xqqs5R4KS._SY466_.jpg",
+  "isbn": "1946661244",
+  "pagesCount": 414,
+  "price": 1132,
+  "creationDate": {
+    "$date": "2023-12-19T14:25:53.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581a85502380d16087ec37c"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Hope and Red",
+  "author": "Jon Skovron ",
+  "genre": "Action,Adventure",
+  "year": 2016,
+  "description": "In the first book of this fun, action-packed fantasy trilogy, a warrior and a thief must come together to stop the forces that threaten their people.\n\nHope's old life ended the night her entire village was massacred by the emperor's forces. Now, trained in secret by a master warrior, her new life is centered on only one goal: vengeance.\n\nRed lives by the skin of his teeth and sharpness of his wit. An expert thief and a brilliant con artist, he cares for only one thing: a good time. But when the empire's soldiers start to encroach on his territory, taking down his friends with it, he may have to re-prioritize.\n\nTogether, they will take down an empire.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71K75SjSwRL._SY466_.jpg",
+  "isbn": "0316268119",
+  "pagesCount": 544,
+  "price": 831,
+  "creationDate": {
+    "$date": "2023-12-19T14:27:33.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581a91c02380d16087ec381"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "THE LION INSIDE",
+  "author": "Rachel Bright",
+  "genre": "Action,Adventure",
+  "year": 2016,
+  "description": "\nIn a dry dusty place where the sand sparkled gold, stood a mighty flat rock, all craggy and old. And under that rock in a tinyful house, lived the littlest, quietest, meekest brown mouse.\n\nFed up of being ignored by the other animals, Mouse wishes he could roar like Lion. But, as he discovers, even the biggest, bossiest people are scared sometimes ... and even the smallest creatures can have the heart of a lion!",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51nXukShjOL._SX342_SY445_.jpg",
+  "isbn": "1408349043",
+  "pagesCount": 30,
+  "price": 284,
+  "creationDate": {
+    "$date": "2023-12-19T14:30:52.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581a9df02380d16087ec386"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Asterix Album 40",
+  "author": "Fabcaro",
+  "genre": "Action,Adventure",
+  "year": 2023,
+  "description": ">'Asterix has long been an English work of literary genius that just happened to be written in another language first.' - The Times\n\nThe latest adventure from our indomitable hero and his friends!\n\nA strange new philosophy is gaining popularity amongst the Roman soldiers, spearheaded by the charismatic Isivertuus. When its enchanting influence reaches the Gauls, everything they once held dear is turned upside down.\n\nAs news of the dire situation reaches Asterix and Obelix, they embark on a thrilling quest to confront Isivertuus and restore the indomitable spirit of the Gauls. Armed with their trademark humour, bravery, and trusty magic potion, can our heroic duo save the Chief's wife and break the spell of the White Iris?",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81hhoP1QKGL._SY466_.jpg",
+  "isbn": "1408730227",
+  "pagesCount": 48,
+  "price": 419,
+  "creationDate": {
+    "$date": "2023-12-19T14:34:07.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581aa8402380d16087ec396"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Project Hail Mary",
+  "author": "Andy Weir ",
+  "genre": "Action,Adventure",
+  "year": 2022,
+  "description": "A lone astronaut.\nAn impossible mission.\nAn ally he never imagined.\n\n'The most enjoyable hard SF I have read in years' GUARDIAN\n\n'Weir's finest work to date. . . This is the one book I read last year that I am certain I can recommend to anyone, no matter who, and know they'll love it.' BRANDON SANDERSON\n\n'If you like a lot of science in your science fiction, Andy Weir is the writer for you. . . This one has everything fans of old school SF (like me) love.' GEORGE R.R. MARTIN\n\n'Brilliantly funny and enjoyable. One of the most plausible science fiction books I've ever read' TIM PEAKE, astronaut",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81Ck2nTaH2L._SY466_.jpg",
+  "isbn": "1529157463",
+  "pagesCount": 496,
+  "price": 365,
+  "creationDate": {
+    "$date": "2023-12-19T14:36:52.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581ab2702380d16087ec39b"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Cruel Prince",
+  "author": " Holly Black ",
+  "genre": "Action,Adventure",
+  "year": 2018,
+  "description": "First in the bestselling Folk of the Air trilogy. The sequels - The Wicked King and The Queen of Nothing - are the winners of/won the Goodreads YA Best Fantasy in 2019 and 2020. Nominated for the CILIP CARNEGIE MEDAL 2019. Winner of the silver INKY for best international YA book. \"A dark jewel of a book . . . intoxicating\" - Leigh Bardugo, #1 New York Times bestselling author of Six of Crows Of course I want to be like them. They're beautiful as blades forged in some divine fire. They will live forever. And Cardan is even more beautiful than the rest. I hate him more than all the others. I hate him so much that sometimes when I look at him, I can hardly breathe. One terrible morning, Jude and her sisters see their parents murdered in front of them. The terrifying assassin abducts all three girls to the world of Faerie, where Jude is installed in the royal court but mocked and tormented by the Faerie royalty for being mortal. As Jude grows older, she realises that she will need to take part in the dangerous deceptions of the fey to ever truly belong. But the stairway to power is fraught with shadows and betrayal. And looming over all is the infuriating, arrogant and charismatic Prince Cardan . . . Dramatic and thrilling fantasy blends seamlessly with enthralling storytelling to create a fully realised and seductive world, brimful of magic and romance.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/716eT7oSHnL._SY466_.jpg",
+  "isbn": "1471407276",
+  "pagesCount": 400,
+  "price": 381,
+  "creationDate": {
+    "$date": "2023-12-19T14:39:35.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581aba902380d16087ec3a0"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "ANGELS & DEMONS ",
+  "author": "BROWN DAN",
+  "genre": "Action,Adventure",
+  "year": 2010,
+  "description": "CERN Institute, Switzerland: a world-renowned scientist is found brutally murdered with a mysterious symbol seared onto his chest.\n\nThe Vatican, Rome: the College of Cardinals assembles to elect a new pope. Somewhere beneath them, an unstoppable bomb of terrifying power relentlessly counts down to oblivion.\n\nA breath-taking race against time: Harvard professor Robert Langdon must decipher a labyrinthine trail of ancient symbols if he is to defeat those responsible - the Illuminati, a secret brotherhood presumed extinct for nearly four hundred years, reborn to continue their deadly vendetta against their most hated enemy: the Catholic Church.\n_____________________\n\nReaders love Angels and Demons\n\n'An absolute thrilling ride from start to finish'\n'If you like mystery, action and thrills; this is the book for you'\n'Utterly gripping. I couldn't put it down!'\n\n",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71U17PxlH7L._SY466_.jpg",
+  "isbn": "0552161268",
+  "pagesCount": 640,
+  "price": 322,
+  "creationDate": {
+    "$date": "2023-12-19T14:41:45.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581ac1302380d16087ec3a5"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "THE FINE PRINT",
+  "author": " Lauren Asher",
+  "genre": "Action,Adventure",
+  "year": 2022,
+  "description": "\nRowan\nI'm in the business of creating fairy tales.\nTheme parks. Production companies. Five-star hotels.\nEverything could be all mine if I renovated Dreamland.\nMy initial idea of hiring Zahra was good in theory, but then I kissed her.\nThings spiraled out of control once I texted her using an alias.\nBy the time I realized where I went wrong, it was too late.\nPeople like me don't get happy endings.\nNot when we're destined to ruin them.\n\nZahra\nAfter submitting a drunk proposal criticizing Dreamland's most expensive ride, I should have been fired.\nInstead, Rowan Kane offered me a dream job.\nThe catch? I had to work for the most difficult boss I'd ever met.\nRowan was rude and completely off-limits, but my heart didn't care.\nAt least not until I discovered his secret.\nIt was time to teach the billionaire that money couldn't fix everything.\nEspecially not us.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/91umNJwTGML._SL1500_.jpg",
+  "isbn": "0349433445",
+  "pagesCount": 448,
+  "price": 374,
+  "creationDate": {
+    "$date": "2023-12-19T14:43:31.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581ace702380d16087ec3bc"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Bad Luck And Trouble",
+  "author": " Lee Child",
+  "genre": "Action,Adventure",
+  "year": 2011,
+  "description": "You do not mess with Jack Reacher.\n\nHe is as close to untraceable as a person can get. A loner comfortable in his anonymity and solitude. So when a member of his old Army unit finds a way to contact him, he knows this has to be serious.\n\nYou do not mess with the Special Investigators.\n\nIn the past the elite team always watched each other's backs. Now one of them has shown up dead in the California desert and six more are missing.\n\nReacher's old buddies are in big trouble, and he can't let that go.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/41Cq8EwPJ+L._SY445_SX342_.jpg",
+  "isbn": "9780857500144",
+  "pagesCount": 528,
+  "price": 399,
+  "creationDate": {
+    "$date": "2023-12-19T14:47:03.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581ad7202380d16087ec3c7"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Nightingale ",
+  "author": "Kristin Hannah",
+  "genre": "Action,Adventure",
+  "year": 2017,
+  "description": "Soon to be a major motion picture, The Nightingale is a multi-million copy bestseller across the world. It is a heart-breakingly beautiful novel that celebrates the resilience of the human spirit and the endurance of women.This story is about what it was like to be a woman during World War II when women’s stories were all too often forgotten or overlooked . . . Vianne and Isabelle Mauriac are two sisters, separated by years and experience, by ideals and passion and circumstance, each embarking on her own dangerous path towards survival, love and freedom in war-torn France.Kristin Hannah's The Nightingale is a novel for everyone, a novel for a lifetime.‘A rich, compelling novel of love, sacrifice and survival’ - Kate Morton‘Movingly written and plotted with the heartless skill of a Greek tragedy, you’ll keep turning the pages until the last racking sob’ - Daily Mail‘I loved The Nightingale . . . great characters, great plots, great emotions, who could ask for more in a novel?’ - Isabel Allende, author of The House of the Spirits‘A gripping tale of family, love, grief and forgiveness’ - Sunday Express",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81xx0Bm7wmL._SY466_.jpg",
+  "isbn": "1509848622",
+  "pagesCount": 464,
+  "price": 347,
+  "creationDate": {
+    "$date": "2023-12-19T14:49:22.171Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,312 @@
+[{
+  "_id": {
+    "$oid": "6581ae8102380d16087ec3eb"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Autobiography of Nikola Tesla",
+  "author": "Nikola Tesla",
+  "genre": "Biographies",
+  "year": 2021,
+  "description": "Discover the remarkable life and brilliant mind of Nikola Tesla in My Inventions: Autobiography of Nikola Tesla. This captivating autobiography unveils the visionary ideas, groundbreaking inventions, and relentless pursuit of innovation that defined one of history's greatest inventors.\n\nA glimpse into the mind of a genius!\n\nNikola Tesla's personal account of his life, inventions, and discoveries\nProvides insights into the mind of a scientific genius and his revolutionary ideas\nChronicles Tesla's groundbreaking contributions to electrical engineering and technology\nReveals Tesla's fascinating vision for wireless power transmission and other groundbreaking concepts\nA captivating and inspiring read for science enthusiasts, inventors, and admirers of Nikola Tesla's genius",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71pGZBofMGL._SY466_.jpg",
+  "isbn": "9354401473",
+  "pagesCount": 104,
+  "price": 99,
+  "creationDate": {
+    "$date": "2023-12-19T14:53:53.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581af4102380d16087ec408"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "WINGS OF FIRE",
+  "author": "Arun Tiwari",
+  "genre": "Biographies",
+  "year": 1999,
+  "description": "Every common man who by his sheer grit and hard work achieves success should share his story with the rest for they may find inspiration and strength to go on, in his story. The 'Wings of Fire' is one such autobiography by visionary scientist Dr. APJ Abdul Kalam, who from very humble beginnings rose to be the President of India. The book is full of insights, personal moments and life experiences of Dr. Kalam. It gives us an understanding on his journey of success. Dr. Kalam by narrating his life journey evokes the reader to identify with one’s inner fire and potential, for he was of the firm belief that each one of us was born with the strength and potential to make a tangible change in the world. How he inspired himself to achieve dreams and how he went about accomplishing so much is what the book captures nicely. The book recollects many anecdotes and stories from childhood, his time at school and college. The time spent at the Langley Research Center, NASA and Wallops Flight Facility gets a lot of attention",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71KKZlVjbwL._SY466_.jpg",
+  "isbn": "9788173711466",
+  "pagesCount": 180,
+  "price": 375,
+  "creationDate": {
+    "$date": "2023-12-19T14:57:05.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b0b802380d16087ec412"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Becoming The",
+  "author": " Michelle Obama",
+  "genre": "Biographies",
+  "year": 2023,
+  "description": "In a life filled with meaning and accomplishment, Michelle Obama has emerged as one of the most iconic and compelling women of our era.\n\nAs First Lady of the United States of America - the first African-American to serve in that role - she helped create the most welcoming and inclusive White House in history, while also establishing herself as a powerful advocate for women and girls in the U.S. and around the world. She dramatically changed the ways that families pursue healthier and more active lives, and stood with her husband as he led America through some of its most harrowing moments. Along the way, she showed us a few dance moves, crushed Carpool Karaoke, and raised two down-to-earth daughters under an unforgiving media glare.\n\nIn her memoir, a work of deep reflection and mesmerizing storytelling, Michelle Obama invites readers into her world, chronicling the experiences that have shaped her - from her childhood on the South Side of Chicago to her years as an executive balancing the demands of motherhood and work, to her time spent at the world's most famous address. With unerring honesty and lively wit, she describes her triumphs and her disappointments, both public and private, telling her full story as she has lived it - in her own words and on her own terms.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/816R04bbGRL._SY466_.jpg",
+  "isbn": "0241334144",
+  "pagesCount": 448,
+  "price": 399,
+  "creationDate": {
+    "$date": "2023-12-19T15:03:20.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b26002380d16087ec417"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Brief History Of Time",
+  "author": " Stephen Hawking",
+  "genre": "Biographies",
+  "year": 2015,
+  "description": "Was there a beginning of time? Could time run backwards? Is the universe infinite or does it have boundaries?\n\nThese are just some of the questions considered in the internationally acclaimed masterpiece by the world renowned physicist - generally considered to have been one of the world's greatest thinkers.\n\nIt begins by reviewing the great theories of the cosmos from Newton to Einstein, before delving into the secrets which still lie at the heart of space and time, from the Big Bang to black holes, via spiral galaxies and strong theory. To this day A Brief History of Time remains a staple of the scientific canon, and its succinct and clear language continues to introduce millions to the universe and its wonders.\n\nThis new edition includes updates from Stephen Hawking with his latest thoughts about the No Boundary Proposal and offers new information about dark energy, the information paradox, eternal inflation, the microwave background radiation observations, and the discovery of gravitational waves.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81DBK93b6jL._SY466_.jpg",
+  "isbn": "0553175211",
+  "pagesCount": 240,
+  "price": 297,
+  "creationDate": {
+    "$date": "2023-12-19T15:10:24.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b31302380d16087ec41c"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Shoe Dog",
+  "author": " Phil Knight",
+  "genre": "Biographies",
+  "year": 2018,
+  "description": "In 1962, fresh out of business school, phil knight borrowed $50 from his father and created a company with a simple mission: import high-quality, athletic shoes from japan. Selling the shoes from the boot of his Plymouth, knight grossed $8000 in his first year. Today, nike's annual sales top $30 billion. In an age of start-ups, nike is the ne plus ultra of all start-ups, and the swoosh has become a revolutionary, globe-spanning icon, one of the most ubiquitous and recognisable symbols in the world today. But knight, the man behind the swoosh, has always remained a mystery. Now, for the first time, he tells his story. Candid, humble, wry and gutsy, he begins with his crossroads moment when he decided to start his own business. He details the many risks and daunting setbacks that stood between him and his dream - along with his early triumphs. Above all, he recalls how his first band of partners and employees soon became a tight-knit band of brothers. Together, harnessing the transcendent power of a shared mission, and a deep belief in the spirit of sport, they built a brand that changed everything. A memoir rich with insight, humour and hard-won wisdom, this book is also studded with lessons - about building something from scratch, overcoming adversity, and ultimately leaving your mark on the world.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/717LHuYp7uL._SY466_.jpg",
+  "isbn": "1471146723",
+  "pagesCount": 400,
+  "price": 341,
+  "creationDate": {
+    "$date": "2023-12-19T15:13:23.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b36c02380d16087ec421"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "STEVE JOBS (PB)",
+  "author": " Walter Isaacson",
+  "genre": "Biographies",
+  "year": 2015,
+  "description": "'This is a riveting book, with as much to say about the transformation of modern life in the information age as about its supernaturally gifted and driven subject' - Telegraph Based on more than forty interviews with Steve Jobs conducted over two years - as well as interviews with more than a hundred family members, friends, adversaries, , and colleagues - this is the acclaimed, internationally bestselling biography of the ultimate icon of inventiveness. Walter Isaacson tells the story of the rollercoaster life and searingly intense personality of creative entrepreneur whose passion for perfection and ferocious drive revolutionized six industries: personal computers, animated movies,music, phones, tablet computing, and digital publishing. Although Jobs cooperated with this book, he asked for no control over what was written, nor even the right to read it before it was published. He put nothing off limits. He encouraged the people he knew to speak honestly. And Jobs speaks candidly, sometimes brutally so, about the people he worked with and competed against. His friends, foes, and colleagues provide an unvarnished view of the passions, perfectionism, obsessions, artistry, devilry, and compulsion for control that shaped his approach to business and the innovative products that resulted.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71u2lGdX7HL._SY466_.jpg",
+  "isbn": "9781408703748",
+  "pagesCount": 592,
+  "price": 498,
+  "creationDate": {
+    "$date": "2023-12-19T15:14:52.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b3df02380d16087ec428"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Tuesdays With Morrie",
+  "author": "Mitch Albom ",
+  "genre": "Biographies",
+  "year": 1998,
+  "description": "Maybe it was a grandparent, or a teacher or a colleague. Someone older, patient and wise, who understood you when you were young and searching, and gave you sound advice to help you make your way through it. For Mitch Albom, that person was Morrie Schwartz, his college professor from nearly twenty years ago.Maybe, like Mitch, you lost track of this mentor as you made your way, and the insights faded. Wouldn't you like to see that person again, ask the bigger questions that still haunt you? Mitch Albom had that second chance. He rediscovered Morrie in the last months of the older man's life. Knowing he was dying of ALS - or motor neurone disease - MItch visited Morrie in his study every Tuesday, just as they used to back in college. Their rekindled relationship turned into one final 'class': lessons in how to live.TUESDAYS WITH MORRIE is a magical chronicle of their time together, through which Mitch shares Morrie's lasting gift with the world.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/619ZKDSCt1L._SY466_.jpg",
+  "isbn": "0751527378",
+  "pagesCount": 208,
+  "price": 213,
+  "creationDate": {
+    "$date": "2023-12-19T15:16:47.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b43602380d16087ec42d"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Ride of a Lifetime",
+  "author": " Robert Iger",
+  "genre": "Biographies",
+  "year": 2019,
+  "description": "\nThe CEO of Disney, one of Time’s most influential people of 2019, shares the ideas and values he embraced to reinvent one of the most beloved companies in the world and inspire the people who bring the magic to life.\n\nRobert Iger became CEO of The Walt Disney Company in 2005, during a difficult time. Morale had deteriorated, competition was intense, and technology was changing faster than at any time in the company’s history. His vision came down to three clear ideas: Recommit to the concept that quality matters, embrace technology instead of fighting it, and think bigger―think global―and turn Disney into a stronger brand in international markets.\n\nFourteen years later, Disney is the largest, most respected media company in the world, counting Pixar, Marvel, Lucasfilm and 21st Century Fox among its properties. Its value is nearly five times what it was when Iger took over, and he is recognized as one of the most innovative and successful CEOs of our era.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71oC2CPfZGL._SY466_.jpg",
+  "isbn": "1787630471",
+  "pagesCount": 272,
+  "price": 480,
+  "creationDate": {
+    "$date": "2023-12-19T15:18:14.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b4ae02380d16087ec437"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Turning Points ",
+  "author": "A.P.J. Abdul Kalam",
+  "genre": "Biographies",
+  "year": 2014,
+  "description": "The inspiring sequel to Wings of Fire. Over 3 lakh copies sold.'It was like any other day on the Anna University campus in Chennai. As I was returning to my room in the evening, the vice-chancellor, Prof. A. Kalanidhi, fell in step with me. Someone had been frantically trying to get in touch with me through the day, he said. Indeed, the phone was ringing when I entered the room. When I answered, a voice at the other end said, 'The prime minister wants to talk with you.' Some months earlier, I had left my post as Principal Scientific Adviser to the Government of India to return to teaching. Now, as I spoke to the PM, Atal Bihari Vajpayee, my life was set for an unexpected change.'Turning Points takes up the incredible Kalam story from where Wings of Fire left off. It brings together details from his career and presidency that are not generally known as he speaks out for the first time on certain points of controversy. It is a continuing saga, above all, of a journey - individual and collective - that will take India to 2020 and beyond as a developed nation.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81xiNxJ2mAL._SY466_.jpg",
+  "isbn": "9350293471",
+  "pagesCount": 192,
+  "price": 190,
+  "creationDate": {
+    "$date": "2023-12-19T15:20:14.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b54802380d16087ec43c"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Brief Answers to the Big Questions",
+  "author": "Stephen Hawking ",
+  "genre": "Biographies",
+  "year": 2020,
+  "description": "THE NO.1 SUNDAY TIMES BESTSELLER'A beautiful little book by a brilliant mind' DAILY TELEGRAPH'Effortlessly instructive, absorbing, up to the minute and - where it matters - witty' GUARDIANThe world-famous cosmologist and #1 bestselling author of A Brief History of Time leaves us with his final thoughts on the universe's biggest questions in this brilliant posthumous work.Is there a God?How did it all begin?Can we predict the future?What is inside a black hole?Is there other intelligent life in the universe?Will artificial intelligence outsmart us?How do we shape the future?Will we survive on Earth?Should we colonise space?Is time travel possible?Throughout his extraordinary career, Stephen Hawking expanded our understanding of the universe and unravelled some of its greatest mysteries. But even as his theoretical work on black holes, imaginary time and multiple histories took his mind to the furthest reaches of space, Hawking always believed that science could also be used to fix the problems on our planet.And now, as we face potentially catastrophic changes here on Earth - from climate change to dwindling natural resources to the threat of artificial super-intelligence - Stephen Hawking turns his attention to the most urgent issues for humankind.Wide-ranging, intellectually stimulating, passionately argued, and infused with his characteristic humour, Brief Answers to the Big Questions, the final book from one of the greatest minds in history, is a personal view on the challenges we face as a human race, and where we, as a planet, are heading next.A percentage of all royalties will go to charity.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71++XzvBcbL._SY466_.jpg",
+  "isbn": "1473695996",
+  "pagesCount": 272,
+  "price": 239,
+  "creationDate": {
+    "$date": "2023-12-19T15:22:48.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b5bf02380d16087ec441"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Choice, The: A true story of hope ",
+  "author": "Edith Eger",
+  "genre": "Biographies",
+  "year": 2018,
+  "description": "\nIn 1944, sixteen-year-old ballerina Edith Eger was sent to Auschwitz. Separated from her parents on arrival, she endures unimaginable experiences, including being made to dance for the infamous Josef Mengele. When the camp is finally liberated, she is pulled from a pile of bodies, barely alive.\n\nThe horrors of the Holocaust didn't break Edith. In fact, they helped her learn to live again with a life-affirming strength and a truly remarkable resilience.\n\nThe Choice is her unforgettable story. It shows that hope can flower in the most unlikely places.\n\n",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/91n-SvBIjxL._SY466_.jpg",
+  "isbn": "9781846045127",
+  "pagesCount": 384,
+  "price": 437,
+  "creationDate": {
+    "$date": "2023-12-19T15:24:47.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b61602380d16087ec446"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Unusual Billionaires",
+  "author": "Saurabh Mukherjea",
+  "genre": "Biographies",
+  "year": 2016,
+  "description": "What makes a company truly outstanding?\nWhat is the secret sauce of delivering successful results year-on-year?\nWhat is common to Asian Paints, HDFC Bank, Marico, Axis Bank, Hindustan Unilever and Berger Paints?\nThey are Unusual Companies, built by Unusual Billionaires. The Unusual Billionaires tells the story of eight, truly outstanding companies which delivered 10 per cent revenue growth over the last ten years and 15 per cent return on capital employed. In simple words, these companies defeated 5000 other public listed companies to deliver high growth while maintaining profitability year-on-year for the last decade.\nHow did these companies do it? Why couldnt this be reciprocated by other companies? What are they doing differently? Saurabh Mukherjea, bestselling author of Gurus of Chaos, delivers an outstanding book with lessons to learn from these eight businesses. Mukherjea tells you why focusing on the core business could save a companys life or how giving control to top management could be a boon. Packed with these learnings are riveting corporate stories of how Hindustan Unilever made aggressive bids to buy Mariwalas business, but had to sell it to the same company in a few years, or how Page Industries found an exciting way to stop unionization at their manufacturing units. It also includes the turnaround of Axis Bank and the boardroom coup that led to its chairmans downfall and how Vijay Mallya lost control of Asian Paints to the Dhingra Brothers. These and many more makes this book a mandatory read for all corporate leaders to simulate and implement.\n",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81H6upa387L._SY466_.jpg",
+  "isbn": "9780143426738",
+  "pagesCount": 454,
+  "price": 276,
+  "creationDate": {
+    "$date": "2023-12-19T15:26:14.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b66d02380d16087ec44b"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Devil's Advocate",
+  "author": " Karan Thapar ",
+  "genre": "Biographies",
+  "year": 2018,
+  "description": "Sometime in the late summer of 1976, Sanjay Gandhi asked if I wanted to go flying with him... After first attempting to teach Karan Thapar to fly (not very successfully) Sanjay Gandhi took the controls and performed a series of aerobatics, not particularly dangerous but nonetheless thrilling. Once they were further away from Delhi, he became even more daring. Suddenly, he decided to scare the farmers working in the fields below by aiming the aircraft straight at them. As he dived down, they scattered and ran, fearing for their lives. At the last moment, Sanjay pulled up dramatically and waved at the bewildered farmers, clearly chuffed with the whole performance. The manoeuvre required nerves of steel and tremendous self-confidence, both of which Sanjay possessed in plenty. in Devil's Advocate, Karan dives deep into his life to come up with many such moments. Included here are stories of warm and lasting friendships, such as with Benazir Bhutto, whom he met while he was an undergraduate. He also talks about his long association with Aung San Suu Kyi and Rajiv Gandhi. However, not all friendships lasted--for example, with L.K. Advani, with whom he shared a close bond until an unfortunate disagreement over an interview caused a falling-out.The tension generated during an interview has spilled over off-screen multiple times, and Karan discusses these incidents in detail. For instance, when Amitabh Bachchan lost his cool during a post-interview lunch or when Kapil Dev cried like a baby. And there's the untold story of two of his most controversial interviews--with Jayalalithaa and Narendra Modi. While Jayalalithaa laughed it off later, the after-effects of Modi's infamous walkout have grown worse with time. Riveting and fast-paced, Devil's Advocate is as no-holds-barred as any of Karan Thapar's interviews.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81ViBkAxwRL._SY466_.jpg",
+  "isbn": "9789352779840",
+  "pagesCount": 224,
+  "price": 368,
+  "creationDate": {
+    "$date": "2023-12-19T15:27:41.976Z"
+  },
+  "__v": 0
+}]

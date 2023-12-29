@@ -1,0 +1,2400 @@
+[{
+  "_id": {
+    "$oid": "5b80028f5b8f1b10d4b666d1"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 12,
+  "comments": [],
+  "title": "The Final Empire (Mistborn #1)",
+  "author": "Brandon Sanderson",
+  "genre": "Fantasy",
+  "year": 2006,
+  "description": "For a thousand years the ash fell and no flowers bloomed. For a thousand years the Skaa slaved in misery and lived in fear. For a thousand years the Lord Ruler, the \"Sliver of Infinity,\" reigned with absolute power and ultimate terror, divinely invincible. Then, when hope was so long lost that not even its memory remained, a terribly scarred, heart-broken half-Skaa rediscovered it in the depths of the Lord Ruler's most hellish prison. Kelsier \"snapped\" and found in himself the powers of a Mistborn. A brilliant thief and natural leader, he turned his talents to the ultimate caper, with the Lord Ruler himself as the mark.",
+  "cover": "https://i.imgur.com/VRtPMP2.jpg",
+  "isbn": "076531178X",
+  "pagesCount": 541,
+  "price": 5.75,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:19.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002905b8f1b10d4b666d2"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 13,
+  "comments": [],
+  "title": "The Well of Ascension (Mistborn #2)",
+  "author": "Brandon Sanderson",
+  "genre": "Fantasy",
+  "year": 2007,
+  "description": "The impossible has been accomplished. The Lord Ruler -- the man who claimed to be god incarnate and brutally ruled the world for a thousand years -- has been vanquished. But Kelsier, the hero who masterminded that triumph, is dead too, and now the awesome task of building a new world has been left to his young protégé, Vin, the former street urchin who is now the most powerful Mistborn in the land, and to the idealistic young nobleman she loves.",
+  "cover": "https://i.imgur.com/lZKZckN.jpg",
+  "isbn": "0765316889",
+  "pagesCount": 592,
+  "price": 11.04,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:20.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002905b8f1b10d4b666d3"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Alloy of Law (Mistborn #4)",
+  "author": "Brandon Sanderson",
+  "genre": "Fantasy",
+  "year": 2011,
+  "description": "Three hundred years after the events of the Mistborn trilogy, Scadrial is now on the verge of modernity, with railroads to supplement the canals, electric lighting in the streets and the homes of the wealthy, and the first steel-framed skyscrapers racing for the clouds. Kelsier, Vin, Elend, Sazed, Spook, and the rest are now part of history—or religion. Yet even as science and technology are reaching new heights, the old magics of Allomancy and Feruchemy continue to play a role in this reborn world. Out in the frontier lands known as the Roughs, they are crucial tools for the brave men and women attempting to establish order and justice",
+  "cover": "https://i.imgur.com/tG6EDty.jpg",
+  "isbn": "0575105836",
+  "pagesCount": 333,
+  "price": 9.59,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:20.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002905b8f1b10d4b666d4"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Shadows of Self (Mistborn #5)",
+  "author": "Brandon Sanderson",
+  "genre": "Fantasy",
+  "year": 2015,
+  "description": "When family obligations forced Waxillium Ladrian to forsake the frontier lands and return to the metropolis of his birth to take his place as head of a noble House, he little imagined that the crime-fighting skills acquired during twenty years in the dusty plains would be just as applicable in the big city. He soon learned that there too, just being a talented Twinborn — one who can use both Allomancy and Feruchemy, the dominant magical modes on Scadrial — would not suffice.",
+  "cover": "https://i.imgur.com/hEUMqhm.jpg",
+  "isbn": "9780765378552",
+  "pagesCount": 385,
+  "price": 12.09,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:20.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002905b8f1b10d4b666d5"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 14,
+  "comments": [],
+  "title": "The Hero of Ages (Mistborn #3)",
+  "author": "Brandon Sanderson",
+  "genre": "Fantasy",
+  "year": 2008,
+  "description": "To end the Final Empire and restore freedom, Vin killed the Lord Ruler. But as a result, the Deepness--the lethal form of the ubiquitous mists--is back, along with increasingly heavy ashfalls and ever more powerful earthquakes. Humanity appears to be doomed.",
+  "cover": "https://i.imgur.com/7m7fOma.jpg",
+  "isbn": "0765316897",
+  "pagesCount": 576,
+  "price": 8.11,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:20.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666d6"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 19,
+  "comments": [],
+  "title": "Words of Radiance (The Stormlight Archive #2)",
+  "author": "Brandon Sanderson",
+  "genre": "Fantasy",
+  "year": 2014,
+  "description": "Expected by his enemies to die the miserable death of a military slave, Kaladin survived to be given command of the royal bodyguards, a controversial first for a low-status \"darkeyes.\" Now he must protect the king and Dalinar from every common peril as well as the distinctly uncommon threat of the Assassin, all while secretly struggling to master remarkable new powers that are somehow linked to his honorspren, Syl. The Assassin, Szeth, is active again, murdering rulers all over the world of Roshar, using his baffling powers to thwart every bodyguard and elude all pursuers. Among his prime targets is Highprince Dalinar, widely considered the power behind the Alethi throne. His leading role in the war would seem reason enough, but the Assassin's master has much deeper motives.",
+  "cover": "https://i.imgur.com/PkOUgGy.jpg",
+  "isbn": "9780765326362",
+  "pagesCount": 1088,
+  "price": 12.91,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666d7"
+  },
+  "currentRating": 5,
+  "ratingPoints": 10,
+  "ratedCount": 2,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "1984",
+  "author": "George Orwell",
+  "genre": "Classics",
+  "year": 1948,
+  "description": "In 1984, London is a grim city in the totalitarian state of Oceania where Big Brother is always watching you and the Thought Police can practically read your mind. Winston Smith is a man in grave danger for the simple reason that his memory still functions. Drawn into a forbidden love affair, Winston finds the courage to join a secret revolutionary organization called The Brotherhood, dedicated to the destruction of the Party. Together with his beloved Julia, he hazards his life in a deadly match against the powers that be.",
+  "cover": "https://i.imgur.com/33fZ6pq.jpg",
+  "isbn": "0452262933",
+  "pagesCount": 237,
+  "price": 10.87,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666d8"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Bands of Mourning (Mistborn #6)",
+  "author": "Brandon Sanderson",
+  "genre": "Fantasy",
+  "year": 2016,
+  "description": "The Bands of Mourning are the mythical metal minds owned by the Lord Ruler, said to grant anyone who wears them the powers that the Lord Ruler had at his command. Hardly anyone thinks they really exist. A kandra researcher has returned to Elendel with images that seem to depict the Bands, as well as writings in a language that no one can read. Waxillium Ladrian is recruited to travel south to the city of New Seran to investigate. Along the way he discovers hints that point to the true goals of his uncle Edwarn and the shadowy organization known as The Set.",
+  "cover": "https://i.imgur.com/tJXcf3W.jpg",
+  "isbn": "9780765378576",
+  "pagesCount": 448,
+  "price": 12.28,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666d9"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "A Clash of Kings (A Song of Ice and Fire #2)",
+  "author": "George R. R. Martin",
+  "genre": "Fantasy",
+  "year": 1999,
+  "description": "A comet the color of blood and flame cuts across the sky. And from the ancient citadel of Dragonstone to the forbidding shores of Winterfell, chaos reigns. Six factions struggle for control of a divided land and the Iron Throne of the Seven Kingdoms, preparing to stake their claims through tempest, turmoil, and war. It is a tale in which brother plots against brother and the dead rise to walk in the night. Here a princess masquerades as an orphan boy; a knight of the mind prepares a poison for a treacherous sorceress; and wild men descend from the Mountains of the Moon to ravage the countryside. Against a backdrop of incest and fratricide, alchemy and murder, victory may go to the men and women possessed of the coldest steel and the coldest hearts. For when kings clash, the whole land trembles.",
+  "cover": "https://i.imgur.com/SjQ8z6n.jpg",
+  "isbn": "0553108034",
+  "pagesCount": 770,
+  "price": 15.17,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666da"
+  },
+  "currentRating": 4.5,
+  "ratingPoints": 9,
+  "ratedCount": 2,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Fahrenheit 451",
+  "author": "Ray Bradbury",
+  "genre": "Classics",
+  "year": 1953,
+  "description": "Guy Montag is a fireman. In his world, where television rules and literature is on the brink of extinction, firemen start fires rather than put them out. His job is to destroy the most illegal of commodities, the printed book, along with the houses in which they are hidden. Montag never questions the destruction and ruin his actions produce, returning each day to his bland life and wife, Mildred, who spends all day with her television “family.” But then he meets an eccentric young neighbor, Clarisse, who introduces him to a past where people didn’t live in fear and to a present where one sees the world through the ideas in books instead of the mindless chatter of television.",
+  "cover": "https://i.imgur.com/1Y4OLwQ.jpg",
+  "isbn": "1451673310",
+  "pagesCount": 249,
+  "price": 8.99,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666db"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Wrong Side of Goodbye (Harry Bosch #19)",
+  "author": "Michael Connelly",
+  "genre": "Crime novel",
+  "year": 2016,
+  "description": "Harry Bosch is California's newest private investigator. He doesn't advertise, he doesn't have an office, and he's picky about who he works for, but it doesn't matter. His chops from thirty years with the LAPD speak for themselves.Soon one of Southern California's biggest moguls comes calling. The reclusive billionaire is nearing the end of his life and is haunted by one regret. When he was young, he had a relationship with a Mexican girl, his great love. But soon after becoming pregnant, she disappeared. Did she have the baby? And if so, what happened to it?",
+  "cover": "https://i.imgur.com/n0BuYOy.jpg",
+  "isbn": "1455524212",
+  "pagesCount": 448,
+  "price": 11.18,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666dc"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Origin (Robert Langdon #5)",
+  "author": "Dan Brown",
+  "genre": "Thriller",
+  "year": 2017,
+  "description": "Robert Langdon, Harvard professor of symbology, arrives at the ultramodern Guggenheim Museum Bilbao to attend the unveiling of a discovery that “will change the face of science forever.” The evening’s host is Edmond Kirsch, a forty-year-old billionaire and futurist, and one of Langdon’s first students. But the meticulously orchestrated evening suddenly erupts into chaos, and Kirsch’s precious discovery teeters on the brink of being lost forever. Facing an imminent threat, Langdon is forced to flee. With him is Ambra Vidal, the elegant museum director who worked with Kirsch. They travel to Barcelona on a perilous quest to locate a cryptic password that will unlock Kirsch’s secret.",
+  "cover": "https://i.imgur.com/o8yWvWV.jpg",
+  "isbn": "0525563709",
+  "pagesCount": 656,
+  "price": 7.49,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666dd"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 18,
+  "comments": [],
+  "title": "The Way of Kings (The Stormlight Archive #1)",
+  "author": "Brandon Sanderson",
+  "genre": "Fantasy",
+  "year": 2010,
+  "description": "Roshar is a world of stone and storms. Uncanny tempests of incredible power sweep across the rocky terrain so frequently that they have shaped ecology and civilization alike. Animals hide in shells, trees pull in branches, and grass retracts into the soilless ground. Cities are built only where the topography offers shelter.It has been centuries since the fall of the ten consecrated orders known as the Knights Radiant, but their Shardblades and Shardplate remain: mystical swords and suits of armor that transform ordinary men into near-invincible warriors. Men trade kingdoms for Shardblades. Wars were fought for them, and won by them.",
+  "cover": "https://i.imgur.com/xxu5ma0.jpg",
+  "isbn": "9780765326355",
+  "pagesCount": 1009,
+  "price": 11.76,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666de"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "A Storm of Swords (A Song of Ice and Fire #3)",
+  "author": "George R. R. Martin",
+  "genre": "Fantasy",
+  "year": 2000,
+  "description": "Of the five contenders for power, one is dead, another in disfavor, and still the wars rage as violently as ever, as alliances are made and broken. Joffrey, of House Lannister, sits on the Iron Throne, the uneasy ruler of the land of the Seven Kingdoms. His most bitter rival, Lord Stannis, stands defeated and disgraced, the victim of the jealous sorceress who holds him in her evil thrall. But young Robb, of House Stark, still rules the North from the fortress of Riverrun. Robb plots against his despised Lannister enemies, even as they hold his sister hostage at King’s Landing, the seat of the Iron Throne. Meanwhile, making her way across a blood-drenched continent is the exiled queen, Daenerys, mistress of the only three dragons still left in the world",
+  "cover": "https://i.imgur.com/vH8AB8S.jpg",
+  "isbn": "0553106635",
+  "pagesCount": 1216,
+  "price": 13.99,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666df"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "King Rat (Asian Saga #4)",
+  "author": "James Clavell",
+  "genre": "Classics",
+  "year": 1962,
+  "description": "The time is World War II. The place is a brutal prison camp deep in Japanese-occupied territory. Here, within the seething mass of humanity, one man, an American corporal, seeks dominance over both captives and captors alike. His weapons are human courage, unblinking understanding of human weaknesses, and total willingness to exploit every opportunity to enlarge his power and corrupt or destroy anyone who stands in his path.",
+  "cover": "https://i.imgur.com/6Pcnx6j.jpg",
+  "isbn": "0385333765",
+  "pagesCount": 368,
+  "price": 16,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666e0"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Two Kinds of Truth (Harry Bosch #20",
+  "author": "Michael Connelly",
+  "genre": "Crime novel",
+  "year": 2017,
+  "description": "Harry Bosch works cold cases, helping out the under-funded San Fernando police department. When a double murder at a local pharmacy is called in, Bosch is the most seasoned detective on the scene. But with experience, come the ghosts of long-forgotten crimes. A death row inmate claims Bosch framed him, and that new DNA evidence proves it. The LAPD investigators say the case is watertight, leaving Bosch out in the wilderness to clear his name and keep a sadistic killer behind bars. There's only one person he can trust to help prove his innocence: Mickey Haller, The Lincoln Lawyer.",
+  "cover": "https://i.imgur.com/KaR416M.jpg",
+  "isbn": "1409147592",
+  "pagesCount": 480,
+  "price": 5.75,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666e1"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Metro 2033 (Metro Series #1)",
+  "author": "Dmitry Glukhovsky",
+  "genre": "Post-apocalyptic",
+  "year": 2013,
+  "description": "The novel that gave birth to the video games 'Metro 2033' and 'Metro: Last Light'. The breathtaking original story that inspired both the METRO 2033 and METRO: LAST LIGHT video games! An international bestseller, translated into 35 languages. Set in the shattered subway of a post apocalyptic Moscow, Metro 2033 is a story of intensive underground survival where the fate of mankind rests in your hands. In 2013 the world was devastated by an apocalyptic event, annihilating almost all mankind and turning the earth’s surface into a poisonous wasteland. A handful of survivors took refuge in the depths of the Moscow underground, and human civilization entered a new Dark Age. The year is 2033. An entire generation has been born and raised underground, and their besieged Metro Station-Cities struggle for survival, with each other, and the mutant horrors that await outside. Artyom was born in the last days before the fire. Having never ventured beyond his Metro Station-City limits, one fateful event sparks a desperate mission to the heart of the Metro system, to warn the remnants of mankind of a terrible impending threat. His journey takes him from the forgotten catacombs beneath the subway to the desolate wastelands above, where his actions will determine the fate of mankind. BURIED. ALIVE. It is now two decades since the planet was convulsed by the Final War, which flashed across the continents, engulfing all of them in an instant, to close the final chapter in our history.",
+  "cover": "https://i.imgur.com/USKxLmk.jpg",
+  "isbn": "1481845705",
+  "pagesCount": 460,
+  "price": 16.35,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666e2"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 20,
+  "comments": [],
+  "title": "Oathbringer (The Stormlight Archive #3)",
+  "author": "Brandon Sanderson",
+  "genre": "Fantasy",
+  "year": 2017,
+  "description": "In Oathbringer, the third volume of the New York Times bestselling Stormlight Archive, humanity faces a new Desolation with the return of the Voidbringers, a foe with numbers as great as their thirst for vengeance.Dalinar Kholin's Alethi armies won a fleeting victory at a terrible cost: The enemy Parshendi summoned the violent Everstorm, which now sweeps the world with destruction, and in its passing awakens the once peaceful and subservient parshmen to the horror of their millennia-long enslavement by humans. While on a desperate flight to warn his family of the threat, Kaladin Stormblessed must come to grips with the fact that the newly kindled anger of the parshmen may be wholly justified.",
+  "cover": "https://i.imgur.com/kBAPdwo.jpg",
+  "isbn": "9780765326379",
+  "pagesCount": 1220,
+  "price": 20.18,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666e3"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "A Feast for Crows (A Song of Ice and Fire #4)",
+  "author": "George R. R. Martin",
+  "genre": "Fantasy",
+  "year": 2005,
+  "description": "It seems too good to be true. After centuries of bitter strife and fatal treachery, the seven powers dividing the land have decimated one another into an uneasy truce. Or so it appears. . . . With the death of the monstrous King Joffrey, Cersei is ruling as regent in King’s Landing. Robb Stark’s demise has broken the back of the Northern rebels, and his siblings are scattered throughout the kingdom like seeds on barren soil. Few legitimate claims to the once desperately sought Iron Throne still exist—or they are held in hands too weak or too distant to wield them effectively. The war, which raged out of control for so long, has burned itself out.",
+  "cover": "https://i.imgur.com/1uqC2to.jpg",
+  "isbn": "0002247437",
+  "pagesCount": 947,
+  "price": 14.7,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666e4"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "genre": "Horror",
+  "year": 1897,
+  "description": "Prince of the Night. Lord of the Damned. King of Vampires. He is Dracula, the most well-known vampire in the world—and this new illustrated edition of Bram Stoker’s classic tale of terror offers Dracula as you have never seen him before. Brought to life through the stunning visual artistry of Eisner Award-winning illustrator Becky Cloonan (Demo, American Virgin, Victor Von Doom), this new graphically compelling novel offers a spellbinding, edition of the book that launched the world’s enduring fascination with vampires: Bram Stoker’s complete and unabridged Dracula. Illuminated and accentuated by the visionary hand of one of America’s most gifted illustrators, Dracula is perfect for fans of the ghastly and paranormal, and unmissable for fans of True Blood, The Vampire Diaries, and Tim Burton’s macabre new film, Dark Shadows (release May 11, 2012) starring Johnny Depp, Helena Bonham-Carter, Michelle Pfeiffer, Eva Green, and Jackie Earle Haley.",
+  "cover": "https://i.imgur.com/MC2iyOC.jpg",
+  "isbn": "0061992151",
+  "pagesCount": 384,
+  "price": 11.94,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666e5"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Gods of Guilt (Mickey Haller #5)",
+  "author": "Michael Connelly",
+  "genre": "Crime novel",
+  "year": 2013,
+  "description": "Mickey Haller gets the text, \"Call me ASAP - 187,\" and the California penal code for murder immediately gets his attention. Murder cases have the highest stakes and the biggest paydays, and they always mean Haller has to be at the top of his game. When Mickey learns that the victim was his own former client, a prostitute he thought he had rescued and put on the straight and narrow path, he knows he is on the hook for this one. He soon finds out that she was back in LA and back in the life. Far from saving her, Mickey may have been the one who put her in danger.",
+  "cover": "https://i.imgur.com/cLN9E2T.jpg",
+  "isbn": "1455575992",
+  "pagesCount": 416,
+  "price": 12.79,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666e6"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Metro 2034 (Metro Series #2)",
+  "author": "Dmitry Glukhovsky",
+  "genre": "Post-apocalyptic",
+  "year": 2015,
+  "description": "The long-awaited sequel to the cult bestseller Metro 2033, the second volume in the Metro trilogy, Metro 2034 continues the story of survival and struggle that unfolds in the mazes of the Moscow subway after WWIII. As the entire civilization was wiped out by atomic bombs and the surface of the planet is polluted with neclear fallout, the only place suitable for men to live are shelters and bunkers, the largest of which is the subway system of Moscow, aka the Metro. The year is 2034. There's no hope for humans to return to the surface of Earth, to repopulate the forsaken cities, and to become once again the masters of the world they used to be. So they rebuild a strange and grotesque civilization in the tunnels and at the stations of the subway. Stations become city-states that wage trade and war on each other. A fragile equilibrium is established. And then all can be ruined in matter of days. A new horrible threat looms that can eradicate the remains of humanity and end our era. It would take three unlikely heroes to face this menace.",
+  "cover": "https://i.imgur.com/ecmAq3i.jpg",
+  "isbn": "1473204305",
+  "pagesCount": 320,
+  "price": 12.59,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666e7"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "A Game of Thrones (A Song of Ice and Fire #1)",
+  "author": "George R. R. Martin",
+  "genre": "Fantasy",
+  "year": 1996,
+  "description": "Long ago, in a time forgotten, a preternatural event threw the seasons out of balance. In a land where summers can last decades and winters a lifetime, trouble is brewing. The cold is returning, and in the frozen wastes to the north of Winterfell, sinister forces are massing beyond the kingdom’s protective Wall. To the south, the king’s powers are failing—his most trusted adviser dead under mysterious circumstances and his enemies emerging from the shadows of the throne. At the center of the conflict lie the Starks of Winterfell, a family as harsh and unyielding as the frozen land they were born to. Now Lord Eddard Stark is reluctantly summoned to serve as the king’s new Hand, an appointment that threatens to sunder not only his family but the kingdom itself.",
+  "cover": "https://i.imgur.com/ezQpwAd.jpg",
+  "isbn": "0553103547",
+  "pagesCount": 819,
+  "price": 10.49,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666e8"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "A Dance with Dragons (A Song of Ice and Fire #5)",
+  "author": "George R. R. Martin",
+  "genre": "Fantasy",
+  "year": 2011,
+  "description": "In the aftermath of a colossal battle, the future of the Seven Kingdoms hangs in the balance—beset by newly emerging threats from every direction. In the east, Daenerys Targaryen, the last scion of House Targaryen, rules with her three dragons as queen of a city built on dust and death. But Daenerys has thousands of enemies, and many have set out to find her. As they gather, one young man embarks upon his own quest for the queen, with an entirely different goal in mind.",
+  "cover": "https://i.imgur.com/lJ65073.jpg",
+  "isbn": "9780007456376",
+  "pagesCount": 1201,
+  "price": 13.94,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666e9"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Cujo",
+  "author": "Stephen King",
+  "genre": "Horror",
+  "year": 1981,
+  "description": "Outside a peaceful town in central Maine, a monster is waiting. Cujo is a two-hundred-pound Saint Bernard, the best friend Brett Camber has ever had. One day, Cujo chases a rabbit into a cave inhabited by sick bats and emerges as something new altogether. Meanwhile, Vic and Donna Trenton, and their young son Tad, move to Maine. They are seeking peace and quiet, but life in this small town is not what it seems. As Tad tries to fend off the terror that comes to him at night from his bedroom closet, and as Vic and Donna face their own nightmare of a marriage on the rocks, there is no way they can know that a monster, infinitely sinister, waits in the daylight.",
+  "cover": "https://i.imgur.com/Orv5Mmq.jpg",
+  "isbn": "1501192248",
+  "pagesCount": 400,
+  "price": 17,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666ea"
+  },
+  "currentRating": 4,
+  "ratingPoints": 4,
+  "ratedCount": 1,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Da Vinci Code (Robert Langdon #2)",
+  "author": "Dan Brown",
+  "genre": "Thriller",
+  "year": 2003,
+  "description": "While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.",
+  "cover": "https://i.imgur.com/SCLWHCl.jpg",
+  "isbn": "0307474275",
+  "pagesCount": 597,
+  "price": 7.99,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666eb"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Metro 2035 (Metro Series #3)",
+  "author": "Dmitry Glukhovsky",
+  "genre": "Post-apocalyptic",
+  "year": 2016,
+  "description": "World War Three wiped out the humankind. The planet is empty now. Huge cities became dust and ashes. Railroads are being eaten by rust. Abandoned satellites hang lonely on the orbit. Radio is mute on all the frequencies. The only survivors of the last war were those who made it into the gates of the Metro, the subway system of Moscow city. It’s there, hundreds of feet below the ground, in the vaults of what was constructed as the world’s largest air-raids shelter that people try to outlive the end of the days. It’s there that they created a new world for themselves. The stations of Metro became city-states, and its citizens, torn apart by religions and ideologies are fighting for the now scarce commodities: air, water, and space. This tiny underground world can only remind humans of an immense world they once were the masters of. It’s been twenty years past Doomsday, and yet the survivors refuse to give up. The most stubborn of them keep cherishing a dream: when the radiation level from nuclear bombings subsides, they will be able to return to the surface and have the life their parents once had.",
+  "cover": "https://i.imgur.com/xEYJDiN.jpg",
+  "isbn": "1539930726",
+  "pagesCount": 502,
+  "price": 17.99,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.046Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666ec"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Crossing (Harry Bosch #18)",
+  "author": "Michael Connelly",
+  "genre": "Crime novel",
+  "year": 2015,
+  "description": "Six months ago, Harry Bosch left the LAPD before they could fire him, and then hired maverick Defense Attorney Mickey Haller to sue the department for forcing him out. Although it wasn't the way he wanted to go, Harry has to admit that being out of the game has its benefits. Until Mickey asks him to help on one of his cases, and suddenly Harry is back where he belongs, right in the centre of a particularly puzzling murder mystery. The difference is, this time Harry is working for the defense, aiming to prevent the accused, Da'Quan Foster, from being convicted. And not only does the prosecution seem to have a cast-iron case, but having crossed over to 'the dark side' as his former colleagues would put it, Harry is in danger of betraying the very principles he's lived by his whole career.",
+  "cover": "https://i.imgur.com/AlpTOHT.jpg",
+  "isbn": "1409145875",
+  "pagesCount": 432,
+  "price": 5.58,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666ed"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Inferno (Robert Langdon #4)",
+  "author": "Dan Brown",
+  "genre": "Thriller",
+  "year": 2013,
+  "description": "Harvard professor of symbology Robert Langdon awakens in an Italian hospital, disoriented and with no recollection of the past thirty-six hours, including the origin of the macabre object hidden in his belongings. With a relentless female assassin trailing them through Florence, he and his resourceful doctor, Sienna Brooks, are forced to flee. Embarking on a harrowing journey, they must unravel a series of codes, which are the work of a brilliant scientist whose obsession with the end of the world is matched only by his passion for one of the most influential masterpieces ever written, Dante Alighieri's The Inferno.",
+  "cover": "https://i.imgur.com/DePtQrp.jpg",
+  "isbn": "1400079152",
+  "pagesCount": 624,
+  "price": 8.49,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5b8002915b8f1b10d4b666ef"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Alex Ferguson: My Biography",
+  "author": "Sir Alex Ferguson",
+  "genre": "Autobiography",
+  "year": 2014,
+  "description": "Sir Alex Ferguson's compelling story is always honest and revealing he reflects on his managerial career that embraced unprecedented European success for Aberdeen and 26 triumphant seasons with Manchester United. Sir Alex Ferguson's best-selling autobiography has now been updated to offer reflections on events at Manchester United since his retirement as well as his teachings at the Harvard Business School, a night at the Oscars and a boat tour round the Hebrides, where he passed unrecognised. The extra material adds fresh insights and detail on his final years as United's manager. Both the psychology of management and the detail of football strategy at the top level can be complex matters but no-one has explained them in a more interesting and accessible way for the general reader than Sir Alex does here.",
+  "cover": "https://i.imgur.com/JCXkMpY.jpg",
+  "isbn": "034091940X",
+  "pagesCount": 416,
+  "price": 11.96,
+  "creationDate": {
+    "$date": "2018-08-24T13:05:21.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581a22302380d16087ec316"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Complete Sherlock Holmes",
+  "author": "Arthur Conan Doyle ",
+  "genre": "Action,Adventure",
+  "year": 2023,
+  "description": "This book is a collection of the four novels written by Sir Arthur Conan Doyle: A Study in Scarlet (1887), The Sign of the Four (1890), The Hound of the Baskervilles (1902) and The Valley of Fear (1915). Featuring the timeless detective Sherlock Holmes, these novels have been successfully engrossing readers for more than a century now.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/513-sDRdxsL._SY466_.jpg",
+  "isbn": "8119660153",
+  "pagesCount": 496,
+  "price": 168,
+  "creationDate": {
+    "$date": "2023-12-19T14:01:07.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581a33502380d16087ec329"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Book Thief",
+  "author": "Markus Zusak ",
+  "genre": "Action,Adventure",
+  "year": 2016,
+  "description": "HERE IS A SMALL FACT - YOU ARE GOING TO DIE\n\n1939. Nazi Germany. The country is holding its breath. Death has never been busier.\nLiesel, a nine-year-old girl, is living with a foster family on Himmel Street. Her parents have been taken away to a concentration camp. Liesel steals books. This is her story and the story of the inhabitants of her street when the bombs begin to fall.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71Ge374aXuL._SY466_.jpg",
+  "isbn": "9781909531611",
+  "pagesCount": 624,
+  "price": 196,
+  "creationDate": {
+    "$date": "2023-12-19T14:05:41.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581a3e302380d16087ec332"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Traitors Gate",
+  "author": "Jeffrey Archer ",
+  "genre": "Action,Adventure",
+  "year": 2023,
+  "description": "But this year, everything is about to change. Because master criminal Miles Faulkner has set his heart on pulling off the most outrageous theft in history – and with a man on the inside, the odds are in his favour Impenetrable. Well protected. Secure. Home to the most valuable jewels on earth. But once a year, the Metropolitan Police must execute the most secret operation in their armoury when they transport the Crown Jewels across London.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71CXmYNmlPL._SY466_.jpg",
+  "isbn": "0008474370",
+  "pagesCount": 384,
+  "price": 319,
+  "creationDate": {
+    "$date": "2023-12-19T14:08:35.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581a47402380d16087ec33b"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Kill the Lawyers",
+  "author": "Shishir Vayttaden",
+  "genre": "Action,Adventure",
+  "year": 2023,
+  "description": "Set around the guns for hire at a fictional Bombay law firm, Kill the Lawyers renders a hilarious account of Big Law-the industry term for large, full-service corporate law firms.\n\nIt debuts Edamarra Edwin, an irreverent junior partner who frolics with the law while helping friends and clients through their direst straits. In nine droll stories, Edwin wiles out victory from the most hopeless situations with a little help from his spunky young associate and an old Bombay 'operator'. In their wandering timeline these stories chart the arc of Edwin's astonishing rise in life.\n\nShishir Vayttaden's long experience as a corporate lawyer gives authenticity to this work of pure fiction, and his skill as a storyteller makes it both deeply engaging and immensely amusing.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81waHOPUvXL._SY466_.jpg",
+  "isbn": "935640464X",
+  "pagesCount": 208,
+  "price": 367,
+  "creationDate": {
+    "$date": "2023-12-19T14:11:00.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581a51502380d16087ec354"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "THE SILENT PATIENT ",
+  "author": "Alex Michaelides",
+  "genre": "Action,Adventure",
+  "year": 2019,
+  "description": "WITH OVER THREE MILLION COPIES SOLD, read the Sunday Times and No.1 New York Times bestselling, record-breaking thriller that everyone is talking about - soon to be a major film. 'The perfect thriller' AJ FINN 'Terrific' - THE TIMES Crime Book of the Month 'Smart, sophisticated suspense' - LEE CHILD 'Compelling' - OBSERVER 'Absolutely brilliant' - STEPHEN FRY 'A totally original psychological mystery' - DAVID BALDACCI 'One of the best thrillers I've read this year' - CARA HUNTER 'The pace and finesse of a master' - BBC CULTURE Alicia Berenson lived a seemingly perfect life until one day six years ago.When she shot her husband in the head five times. Since then she hasn't spoken a single word.It's time to find out why. THE SILENT PATIENT is the gripping must-read thriller of the year - perfect for fans of THE FAMILY UPSTAIRS by Lisa Jewell, BLOOD ORANGE by Harriet Tyce and PLAYING NICE by JP Delaney.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81JJPDNlxSL._SY466_.jpg",
+  "isbn": "1409181634",
+  "pagesCount": 352,
+  "price": 218,
+  "creationDate": {
+    "$date": "2023-12-19T14:13:41.743Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581a5a502380d16087ec359"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Once a Thief",
+  "author": "Christopher Reich",
+  "genre": "Action,Adventure",
+  "year": 2023,
+  "description": "Simon Riske sits in sun-dappled Napa Valley, toasting the record hundred-million-dollar sale of a rare 1963 Ferrari which he restored himself. The buyer, a sophisticated French woman, Sylvie Bettencourt, has purchased the car for an unnamed client whose anonymity she will guard at all costs. Riske enjoys her company and the flowing champagne until Sylvie’s formidable Russian bodyguard storms in, claiming the vehicle is a fake. Riske is given an ultimatum. Prove the car is the real thing…or else.\n \nMeanwhile, in Lugano, Switzerland, Carl Bildt, banker to the rich and nefarious, is killed by a powerful car bomb, moments before he can deliver evidence to the authorities and disappear into witness protection. His beautiful and headstrong daughter, Anna, rushes to Switzerland to investigate her father’s violent death.\n \nAs Simon Riske strives to prove the Ferraris’ authenticity and look deeper into Sylvie’s past–and the identity of her client—he crosses paths with Anna Bildt and discovers they have an enemy in common.  From the bustling streets of London to a secret outpost high in the French Alps, from the freeports of Corsica to the glittering beaches of the Costa Smeralda, the Emerald Coast, of Sardinia, Riske and Anna find themselves players in a deadly game, where billions of dollars change hands and knowledge is paid for with your life.\n \nTold with Reich’s signature stylish prose, clever plotting, and pulse-pounding action sequences, Once a Thief, is sure to appeal to longtime fans of the series and newcomers alike. Riske may be a bit older, showing a little wear and tear, but his desire to get the job done at any cost is stronger than ever.\n \n\n",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81pCpZVkP5L._SY466_.jpg",
+  "isbn": "0316456101",
+  "pagesCount": 352,
+  "price": 1346,
+  "creationDate": {
+    "$date": "2023-12-19T14:16:05.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581a7f102380d16087ec377"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Kate Hamilton Mysteries",
+  "author": "Melody Simmons",
+  "genre": "Action,Adventure",
+  "year": 2021,
+  "description": "oin teacher Kate Hamilton as she puzzles her way through crimes from rural Virginia to inner city Washington D.C. in this USA Today bestselling series.\nMINE\nA sleepy town in southwest Virginia wakes up to a nightmare of untimely deaths.\n\nNot safe at home in Boston, science teacher Kate Hamilton seeks refuge in the small Virginia town where she was born and raised.\n\nScarborough is no longer the bucolic village that she remembered. Pleasantries are only skin deep as big city issues and the politics of the world roil just under the surface.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71Xqqs5R4KS._SY466_.jpg",
+  "isbn": "1946661244",
+  "pagesCount": 414,
+  "price": 1132,
+  "creationDate": {
+    "$date": "2023-12-19T14:25:53.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581a85502380d16087ec37c"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Hope and Red",
+  "author": "Jon Skovron ",
+  "genre": "Action,Adventure",
+  "year": 2016,
+  "description": "In the first book of this fun, action-packed fantasy trilogy, a warrior and a thief must come together to stop the forces that threaten their people.\n\nHope's old life ended the night her entire village was massacred by the emperor's forces. Now, trained in secret by a master warrior, her new life is centered on only one goal: vengeance.\n\nRed lives by the skin of his teeth and sharpness of his wit. An expert thief and a brilliant con artist, he cares for only one thing: a good time. But when the empire's soldiers start to encroach on his territory, taking down his friends with it, he may have to re-prioritize.\n\nTogether, they will take down an empire.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71K75SjSwRL._SY466_.jpg",
+  "isbn": "0316268119",
+  "pagesCount": 544,
+  "price": 831,
+  "creationDate": {
+    "$date": "2023-12-19T14:27:33.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581a91c02380d16087ec381"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "THE LION INSIDE",
+  "author": "Rachel Bright",
+  "genre": "Action,Adventure",
+  "year": 2016,
+  "description": "\nIn a dry dusty place where the sand sparkled gold, stood a mighty flat rock, all craggy and old. And under that rock in a tinyful house, lived the littlest, quietest, meekest brown mouse.\n\nFed up of being ignored by the other animals, Mouse wishes he could roar like Lion. But, as he discovers, even the biggest, bossiest people are scared sometimes ... and even the smallest creatures can have the heart of a lion!",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51nXukShjOL._SX342_SY445_.jpg",
+  "isbn": "1408349043",
+  "pagesCount": 30,
+  "price": 284,
+  "creationDate": {
+    "$date": "2023-12-19T14:30:52.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581a9df02380d16087ec386"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Asterix Album 40",
+  "author": "Fabcaro",
+  "genre": "Action,Adventure",
+  "year": 2023,
+  "description": ">'Asterix has long been an English work of literary genius that just happened to be written in another language first.' - The Times\n\nThe latest adventure from our indomitable hero and his friends!\n\nA strange new philosophy is gaining popularity amongst the Roman soldiers, spearheaded by the charismatic Isivertuus. When its enchanting influence reaches the Gauls, everything they once held dear is turned upside down.\n\nAs news of the dire situation reaches Asterix and Obelix, they embark on a thrilling quest to confront Isivertuus and restore the indomitable spirit of the Gauls. Armed with their trademark humour, bravery, and trusty magic potion, can our heroic duo save the Chief's wife and break the spell of the White Iris?",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81hhoP1QKGL._SY466_.jpg",
+  "isbn": "1408730227",
+  "pagesCount": 48,
+  "price": 419,
+  "creationDate": {
+    "$date": "2023-12-19T14:34:07.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581aa8402380d16087ec396"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Project Hail Mary",
+  "author": "Andy Weir ",
+  "genre": "Action,Adventure",
+  "year": 2022,
+  "description": "A lone astronaut.\nAn impossible mission.\nAn ally he never imagined.\n\n'The most enjoyable hard SF I have read in years' GUARDIAN\n\n'Weir's finest work to date. . . This is the one book I read last year that I am certain I can recommend to anyone, no matter who, and know they'll love it.' BRANDON SANDERSON\n\n'If you like a lot of science in your science fiction, Andy Weir is the writer for you. . . This one has everything fans of old school SF (like me) love.' GEORGE R.R. MARTIN\n\n'Brilliantly funny and enjoyable. One of the most plausible science fiction books I've ever read' TIM PEAKE, astronaut",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81Ck2nTaH2L._SY466_.jpg",
+  "isbn": "1529157463",
+  "pagesCount": 496,
+  "price": 365,
+  "creationDate": {
+    "$date": "2023-12-19T14:36:52.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581ab2702380d16087ec39b"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Cruel Prince",
+  "author": " Holly Black ",
+  "genre": "Action,Adventure",
+  "year": 2018,
+  "description": "First in the bestselling Folk of the Air trilogy. The sequels - The Wicked King and The Queen of Nothing - are the winners of/won the Goodreads YA Best Fantasy in 2019 and 2020. Nominated for the CILIP CARNEGIE MEDAL 2019. Winner of the silver INKY for best international YA book. \"A dark jewel of a book . . . intoxicating\" - Leigh Bardugo, #1 New York Times bestselling author of Six of Crows Of course I want to be like them. They're beautiful as blades forged in some divine fire. They will live forever. And Cardan is even more beautiful than the rest. I hate him more than all the others. I hate him so much that sometimes when I look at him, I can hardly breathe. One terrible morning, Jude and her sisters see their parents murdered in front of them. The terrifying assassin abducts all three girls to the world of Faerie, where Jude is installed in the royal court but mocked and tormented by the Faerie royalty for being mortal. As Jude grows older, she realises that she will need to take part in the dangerous deceptions of the fey to ever truly belong. But the stairway to power is fraught with shadows and betrayal. And looming over all is the infuriating, arrogant and charismatic Prince Cardan . . . Dramatic and thrilling fantasy blends seamlessly with enthralling storytelling to create a fully realised and seductive world, brimful of magic and romance.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/716eT7oSHnL._SY466_.jpg",
+  "isbn": "1471407276",
+  "pagesCount": 400,
+  "price": 381,
+  "creationDate": {
+    "$date": "2023-12-19T14:39:35.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581aba902380d16087ec3a0"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "ANGELS & DEMONS ",
+  "author": "BROWN DAN",
+  "genre": "Action,Adventure",
+  "year": 2010,
+  "description": "CERN Institute, Switzerland: a world-renowned scientist is found brutally murdered with a mysterious symbol seared onto his chest.\n\nThe Vatican, Rome: the College of Cardinals assembles to elect a new pope. Somewhere beneath them, an unstoppable bomb of terrifying power relentlessly counts down to oblivion.\n\nA breath-taking race against time: Harvard professor Robert Langdon must decipher a labyrinthine trail of ancient symbols if he is to defeat those responsible - the Illuminati, a secret brotherhood presumed extinct for nearly four hundred years, reborn to continue their deadly vendetta against their most hated enemy: the Catholic Church.\n_____________________\n\nReaders love Angels and Demons\n\n'An absolute thrilling ride from start to finish'\n'If you like mystery, action and thrills; this is the book for you'\n'Utterly gripping. I couldn't put it down!'\n\n",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71U17PxlH7L._SY466_.jpg",
+  "isbn": "0552161268",
+  "pagesCount": 640,
+  "price": 322,
+  "creationDate": {
+    "$date": "2023-12-19T14:41:45.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581ac1302380d16087ec3a5"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "THE FINE PRINT",
+  "author": " Lauren Asher",
+  "genre": "Action,Adventure",
+  "year": 2022,
+  "description": "\nRowan\nI'm in the business of creating fairy tales.\nTheme parks. Production companies. Five-star hotels.\nEverything could be all mine if I renovated Dreamland.\nMy initial idea of hiring Zahra was good in theory, but then I kissed her.\nThings spiraled out of control once I texted her using an alias.\nBy the time I realized where I went wrong, it was too late.\nPeople like me don't get happy endings.\nNot when we're destined to ruin them.\n\nZahra\nAfter submitting a drunk proposal criticizing Dreamland's most expensive ride, I should have been fired.\nInstead, Rowan Kane offered me a dream job.\nThe catch? I had to work for the most difficult boss I'd ever met.\nRowan was rude and completely off-limits, but my heart didn't care.\nAt least not until I discovered his secret.\nIt was time to teach the billionaire that money couldn't fix everything.\nEspecially not us.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/91umNJwTGML._SL1500_.jpg",
+  "isbn": "0349433445",
+  "pagesCount": 448,
+  "price": 374,
+  "creationDate": {
+    "$date": "2023-12-19T14:43:31.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581ace702380d16087ec3bc"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Bad Luck And Trouble",
+  "author": " Lee Child",
+  "genre": "Action,Adventure",
+  "year": 2011,
+  "description": "You do not mess with Jack Reacher.\n\nHe is as close to untraceable as a person can get. A loner comfortable in his anonymity and solitude. So when a member of his old Army unit finds a way to contact him, he knows this has to be serious.\n\nYou do not mess with the Special Investigators.\n\nIn the past the elite team always watched each other's backs. Now one of them has shown up dead in the California desert and six more are missing.\n\nReacher's old buddies are in big trouble, and he can't let that go.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/41Cq8EwPJ+L._SY445_SX342_.jpg",
+  "isbn": "9780857500144",
+  "pagesCount": 528,
+  "price": 399,
+  "creationDate": {
+    "$date": "2023-12-19T14:47:03.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581ad7202380d16087ec3c7"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Nightingale ",
+  "author": "Kristin Hannah",
+  "genre": "Action,Adventure",
+  "year": 2017,
+  "description": "Soon to be a major motion picture, The Nightingale is a multi-million copy bestseller across the world. It is a heart-breakingly beautiful novel that celebrates the resilience of the human spirit and the endurance of women.This story is about what it was like to be a woman during World War II when women’s stories were all too often forgotten or overlooked . . . Vianne and Isabelle Mauriac are two sisters, separated by years and experience, by ideals and passion and circumstance, each embarking on her own dangerous path towards survival, love and freedom in war-torn France.Kristin Hannah's The Nightingale is a novel for everyone, a novel for a lifetime.‘A rich, compelling novel of love, sacrifice and survival’ - Kate Morton‘Movingly written and plotted with the heartless skill of a Greek tragedy, you’ll keep turning the pages until the last racking sob’ - Daily Mail‘I loved The Nightingale . . . great characters, great plots, great emotions, who could ask for more in a novel?’ - Isabel Allende, author of The House of the Spirits‘A gripping tale of family, love, grief and forgiveness’ - Sunday Express",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81xx0Bm7wmL._SY466_.jpg",
+  "isbn": "1509848622",
+  "pagesCount": 464,
+  "price": 347,
+  "creationDate": {
+    "$date": "2023-12-19T14:49:22.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581ae8102380d16087ec3eb"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Autobiography of Nikola Tesla",
+  "author": "Nikola Tesla",
+  "genre": "Biographies",
+  "year": 2021,
+  "description": "Discover the remarkable life and brilliant mind of Nikola Tesla in My Inventions: Autobiography of Nikola Tesla. This captivating autobiography unveils the visionary ideas, groundbreaking inventions, and relentless pursuit of innovation that defined one of history's greatest inventors.\n\nA glimpse into the mind of a genius!\n\nNikola Tesla's personal account of his life, inventions, and discoveries\nProvides insights into the mind of a scientific genius and his revolutionary ideas\nChronicles Tesla's groundbreaking contributions to electrical engineering and technology\nReveals Tesla's fascinating vision for wireless power transmission and other groundbreaking concepts\nA captivating and inspiring read for science enthusiasts, inventors, and admirers of Nikola Tesla's genius",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71pGZBofMGL._SY466_.jpg",
+  "isbn": "9354401473",
+  "pagesCount": 104,
+  "price": 99,
+  "creationDate": {
+    "$date": "2023-12-19T14:53:53.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581af4102380d16087ec408"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "WINGS OF FIRE",
+  "author": "Arun Tiwari",
+  "genre": "Biographies",
+  "year": 1999,
+  "description": "Every common man who by his sheer grit and hard work achieves success should share his story with the rest for they may find inspiration and strength to go on, in his story. The 'Wings of Fire' is one such autobiography by visionary scientist Dr. APJ Abdul Kalam, who from very humble beginnings rose to be the President of India. The book is full of insights, personal moments and life experiences of Dr. Kalam. It gives us an understanding on his journey of success. Dr. Kalam by narrating his life journey evokes the reader to identify with one’s inner fire and potential, for he was of the firm belief that each one of us was born with the strength and potential to make a tangible change in the world. How he inspired himself to achieve dreams and how he went about accomplishing so much is what the book captures nicely. The book recollects many anecdotes and stories from childhood, his time at school and college. The time spent at the Langley Research Center, NASA and Wallops Flight Facility gets a lot of attention",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71KKZlVjbwL._SY466_.jpg",
+  "isbn": "9788173711466",
+  "pagesCount": 180,
+  "price": 375,
+  "creationDate": {
+    "$date": "2023-12-19T14:57:05.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b0b802380d16087ec412"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Becoming The",
+  "author": " Michelle Obama",
+  "genre": "Biographies",
+  "year": 2023,
+  "description": "In a life filled with meaning and accomplishment, Michelle Obama has emerged as one of the most iconic and compelling women of our era.\n\nAs First Lady of the United States of America - the first African-American to serve in that role - she helped create the most welcoming and inclusive White House in history, while also establishing herself as a powerful advocate for women and girls in the U.S. and around the world. She dramatically changed the ways that families pursue healthier and more active lives, and stood with her husband as he led America through some of its most harrowing moments. Along the way, she showed us a few dance moves, crushed Carpool Karaoke, and raised two down-to-earth daughters under an unforgiving media glare.\n\nIn her memoir, a work of deep reflection and mesmerizing storytelling, Michelle Obama invites readers into her world, chronicling the experiences that have shaped her - from her childhood on the South Side of Chicago to her years as an executive balancing the demands of motherhood and work, to her time spent at the world's most famous address. With unerring honesty and lively wit, she describes her triumphs and her disappointments, both public and private, telling her full story as she has lived it - in her own words and on her own terms.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/816R04bbGRL._SY466_.jpg",
+  "isbn": "0241334144",
+  "pagesCount": 448,
+  "price": 399,
+  "creationDate": {
+    "$date": "2023-12-19T15:03:20.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b26002380d16087ec417"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Brief History Of Time",
+  "author": " Stephen Hawking",
+  "genre": "Biographies",
+  "year": 2015,
+  "description": "Was there a beginning of time? Could time run backwards? Is the universe infinite or does it have boundaries?\n\nThese are just some of the questions considered in the internationally acclaimed masterpiece by the world renowned physicist - generally considered to have been one of the world's greatest thinkers.\n\nIt begins by reviewing the great theories of the cosmos from Newton to Einstein, before delving into the secrets which still lie at the heart of space and time, from the Big Bang to black holes, via spiral galaxies and strong theory. To this day A Brief History of Time remains a staple of the scientific canon, and its succinct and clear language continues to introduce millions to the universe and its wonders.\n\nThis new edition includes updates from Stephen Hawking with his latest thoughts about the No Boundary Proposal and offers new information about dark energy, the information paradox, eternal inflation, the microwave background radiation observations, and the discovery of gravitational waves.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81DBK93b6jL._SY466_.jpg",
+  "isbn": "0553175211",
+  "pagesCount": 240,
+  "price": 297,
+  "creationDate": {
+    "$date": "2023-12-19T15:10:24.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b31302380d16087ec41c"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Shoe Dog",
+  "author": " Phil Knight",
+  "genre": "Biographies",
+  "year": 2018,
+  "description": "In 1962, fresh out of business school, phil knight borrowed $50 from his father and created a company with a simple mission: import high-quality, athletic shoes from japan. Selling the shoes from the boot of his Plymouth, knight grossed $8000 in his first year. Today, nike's annual sales top $30 billion. In an age of start-ups, nike is the ne plus ultra of all start-ups, and the swoosh has become a revolutionary, globe-spanning icon, one of the most ubiquitous and recognisable symbols in the world today. But knight, the man behind the swoosh, has always remained a mystery. Now, for the first time, he tells his story. Candid, humble, wry and gutsy, he begins with his crossroads moment when he decided to start his own business. He details the many risks and daunting setbacks that stood between him and his dream - along with his early triumphs. Above all, he recalls how his first band of partners and employees soon became a tight-knit band of brothers. Together, harnessing the transcendent power of a shared mission, and a deep belief in the spirit of sport, they built a brand that changed everything. A memoir rich with insight, humour and hard-won wisdom, this book is also studded with lessons - about building something from scratch, overcoming adversity, and ultimately leaving your mark on the world.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/717LHuYp7uL._SY466_.jpg",
+  "isbn": "1471146723",
+  "pagesCount": 400,
+  "price": 341,
+  "creationDate": {
+    "$date": "2023-12-19T15:13:23.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b36c02380d16087ec421"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "STEVE JOBS (PB)",
+  "author": " Walter Isaacson",
+  "genre": "Biographies",
+  "year": 2015,
+  "description": "'This is a riveting book, with as much to say about the transformation of modern life in the information age as about its supernaturally gifted and driven subject' - Telegraph Based on more than forty interviews with Steve Jobs conducted over two years - as well as interviews with more than a hundred family members, friends, adversaries, , and colleagues - this is the acclaimed, internationally bestselling biography of the ultimate icon of inventiveness. Walter Isaacson tells the story of the rollercoaster life and searingly intense personality of creative entrepreneur whose passion for perfection and ferocious drive revolutionized six industries: personal computers, animated movies,music, phones, tablet computing, and digital publishing. Although Jobs cooperated with this book, he asked for no control over what was written, nor even the right to read it before it was published. He put nothing off limits. He encouraged the people he knew to speak honestly. And Jobs speaks candidly, sometimes brutally so, about the people he worked with and competed against. His friends, foes, and colleagues provide an unvarnished view of the passions, perfectionism, obsessions, artistry, devilry, and compulsion for control that shaped his approach to business and the innovative products that resulted.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71u2lGdX7HL._SY466_.jpg",
+  "isbn": "9781408703748",
+  "pagesCount": 592,
+  "price": 498,
+  "creationDate": {
+    "$date": "2023-12-19T15:14:52.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b3df02380d16087ec428"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Tuesdays With Morrie",
+  "author": "Mitch Albom ",
+  "genre": "Biographies",
+  "year": 1998,
+  "description": "Maybe it was a grandparent, or a teacher or a colleague. Someone older, patient and wise, who understood you when you were young and searching, and gave you sound advice to help you make your way through it. For Mitch Albom, that person was Morrie Schwartz, his college professor from nearly twenty years ago.Maybe, like Mitch, you lost track of this mentor as you made your way, and the insights faded. Wouldn't you like to see that person again, ask the bigger questions that still haunt you? Mitch Albom had that second chance. He rediscovered Morrie in the last months of the older man's life. Knowing he was dying of ALS - or motor neurone disease - MItch visited Morrie in his study every Tuesday, just as they used to back in college. Their rekindled relationship turned into one final 'class': lessons in how to live.TUESDAYS WITH MORRIE is a magical chronicle of their time together, through which Mitch shares Morrie's lasting gift with the world.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/619ZKDSCt1L._SY466_.jpg",
+  "isbn": "0751527378",
+  "pagesCount": 208,
+  "price": 213,
+  "creationDate": {
+    "$date": "2023-12-19T15:16:47.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b43602380d16087ec42d"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Ride of a Lifetime",
+  "author": " Robert Iger",
+  "genre": "Biographies",
+  "year": 2019,
+  "description": "\nThe CEO of Disney, one of Time’s most influential people of 2019, shares the ideas and values he embraced to reinvent one of the most beloved companies in the world and inspire the people who bring the magic to life.\n\nRobert Iger became CEO of The Walt Disney Company in 2005, during a difficult time. Morale had deteriorated, competition was intense, and technology was changing faster than at any time in the company’s history. His vision came down to three clear ideas: Recommit to the concept that quality matters, embrace technology instead of fighting it, and think bigger―think global―and turn Disney into a stronger brand in international markets.\n\nFourteen years later, Disney is the largest, most respected media company in the world, counting Pixar, Marvel, Lucasfilm and 21st Century Fox among its properties. Its value is nearly five times what it was when Iger took over, and he is recognized as one of the most innovative and successful CEOs of our era.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71oC2CPfZGL._SY466_.jpg",
+  "isbn": "1787630471",
+  "pagesCount": 272,
+  "price": 480,
+  "creationDate": {
+    "$date": "2023-12-19T15:18:14.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b4ae02380d16087ec437"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Turning Points ",
+  "author": "A.P.J. Abdul Kalam",
+  "genre": "Biographies",
+  "year": 2014,
+  "description": "The inspiring sequel to Wings of Fire. Over 3 lakh copies sold.'It was like any other day on the Anna University campus in Chennai. As I was returning to my room in the evening, the vice-chancellor, Prof. A. Kalanidhi, fell in step with me. Someone had been frantically trying to get in touch with me through the day, he said. Indeed, the phone was ringing when I entered the room. When I answered, a voice at the other end said, 'The prime minister wants to talk with you.' Some months earlier, I had left my post as Principal Scientific Adviser to the Government of India to return to teaching. Now, as I spoke to the PM, Atal Bihari Vajpayee, my life was set for an unexpected change.'Turning Points takes up the incredible Kalam story from where Wings of Fire left off. It brings together details from his career and presidency that are not generally known as he speaks out for the first time on certain points of controversy. It is a continuing saga, above all, of a journey - individual and collective - that will take India to 2020 and beyond as a developed nation.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81xiNxJ2mAL._SY466_.jpg",
+  "isbn": "9350293471",
+  "pagesCount": 192,
+  "price": 190,
+  "creationDate": {
+    "$date": "2023-12-19T15:20:14.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b54802380d16087ec43c"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Brief Answers to the Big Questions",
+  "author": "Stephen Hawking ",
+  "genre": "Biographies",
+  "year": 2020,
+  "description": "THE NO.1 SUNDAY TIMES BESTSELLER'A beautiful little book by a brilliant mind' DAILY TELEGRAPH'Effortlessly instructive, absorbing, up to the minute and - where it matters - witty' GUARDIANThe world-famous cosmologist and #1 bestselling author of A Brief History of Time leaves us with his final thoughts on the universe's biggest questions in this brilliant posthumous work.Is there a God?How did it all begin?Can we predict the future?What is inside a black hole?Is there other intelligent life in the universe?Will artificial intelligence outsmart us?How do we shape the future?Will we survive on Earth?Should we colonise space?Is time travel possible?Throughout his extraordinary career, Stephen Hawking expanded our understanding of the universe and unravelled some of its greatest mysteries. But even as his theoretical work on black holes, imaginary time and multiple histories took his mind to the furthest reaches of space, Hawking always believed that science could also be used to fix the problems on our planet.And now, as we face potentially catastrophic changes here on Earth - from climate change to dwindling natural resources to the threat of artificial super-intelligence - Stephen Hawking turns his attention to the most urgent issues for humankind.Wide-ranging, intellectually stimulating, passionately argued, and infused with his characteristic humour, Brief Answers to the Big Questions, the final book from one of the greatest minds in history, is a personal view on the challenges we face as a human race, and where we, as a planet, are heading next.A percentage of all royalties will go to charity.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71++XzvBcbL._SY466_.jpg",
+  "isbn": "1473695996",
+  "pagesCount": 272,
+  "price": 239,
+  "creationDate": {
+    "$date": "2023-12-19T15:22:48.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b5bf02380d16087ec441"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Choice, The: A true story of hope ",
+  "author": "Edith Eger",
+  "genre": "Biographies",
+  "year": 2018,
+  "description": "\nIn 1944, sixteen-year-old ballerina Edith Eger was sent to Auschwitz. Separated from her parents on arrival, she endures unimaginable experiences, including being made to dance for the infamous Josef Mengele. When the camp is finally liberated, she is pulled from a pile of bodies, barely alive.\n\nThe horrors of the Holocaust didn't break Edith. In fact, they helped her learn to live again with a life-affirming strength and a truly remarkable resilience.\n\nThe Choice is her unforgettable story. It shows that hope can flower in the most unlikely places.\n\n",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/91n-SvBIjxL._SY466_.jpg",
+  "isbn": "9781846045127",
+  "pagesCount": 384,
+  "price": 437,
+  "creationDate": {
+    "$date": "2023-12-19T15:24:47.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b61602380d16087ec446"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Unusual Billionaires",
+  "author": "Saurabh Mukherjea",
+  "genre": "Biographies",
+  "year": 2016,
+  "description": "What makes a company truly outstanding?\nWhat is the secret sauce of delivering successful results year-on-year?\nWhat is common to Asian Paints, HDFC Bank, Marico, Axis Bank, Hindustan Unilever and Berger Paints?\nThey are Unusual Companies, built by Unusual Billionaires. The Unusual Billionaires tells the story of eight, truly outstanding companies which delivered 10 per cent revenue growth over the last ten years and 15 per cent return on capital employed. In simple words, these companies defeated 5000 other public listed companies to deliver high growth while maintaining profitability year-on-year for the last decade.\nHow did these companies do it? Why couldnt this be reciprocated by other companies? What are they doing differently? Saurabh Mukherjea, bestselling author of Gurus of Chaos, delivers an outstanding book with lessons to learn from these eight businesses. Mukherjea tells you why focusing on the core business could save a companys life or how giving control to top management could be a boon. Packed with these learnings are riveting corporate stories of how Hindustan Unilever made aggressive bids to buy Mariwalas business, but had to sell it to the same company in a few years, or how Page Industries found an exciting way to stop unionization at their manufacturing units. It also includes the turnaround of Axis Bank and the boardroom coup that led to its chairmans downfall and how Vijay Mallya lost control of Asian Paints to the Dhingra Brothers. These and many more makes this book a mandatory read for all corporate leaders to simulate and implement.\n",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81H6upa387L._SY466_.jpg",
+  "isbn": "9780143426738",
+  "pagesCount": 454,
+  "price": 276,
+  "creationDate": {
+    "$date": "2023-12-19T15:26:14.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b66d02380d16087ec44b"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Devil's Advocate",
+  "author": " Karan Thapar ",
+  "genre": "Biographies",
+  "year": 2018,
+  "description": "Sometime in the late summer of 1976, Sanjay Gandhi asked if I wanted to go flying with him... After first attempting to teach Karan Thapar to fly (not very successfully) Sanjay Gandhi took the controls and performed a series of aerobatics, not particularly dangerous but nonetheless thrilling. Once they were further away from Delhi, he became even more daring. Suddenly, he decided to scare the farmers working in the fields below by aiming the aircraft straight at them. As he dived down, they scattered and ran, fearing for their lives. At the last moment, Sanjay pulled up dramatically and waved at the bewildered farmers, clearly chuffed with the whole performance. The manoeuvre required nerves of steel and tremendous self-confidence, both of which Sanjay possessed in plenty. in Devil's Advocate, Karan dives deep into his life to come up with many such moments. Included here are stories of warm and lasting friendships, such as with Benazir Bhutto, whom he met while he was an undergraduate. He also talks about his long association with Aung San Suu Kyi and Rajiv Gandhi. However, not all friendships lasted--for example, with L.K. Advani, with whom he shared a close bond until an unfortunate disagreement over an interview caused a falling-out.The tension generated during an interview has spilled over off-screen multiple times, and Karan discusses these incidents in detail. For instance, when Amitabh Bachchan lost his cool during a post-interview lunch or when Kapil Dev cried like a baby. And there's the untold story of two of his most controversial interviews--with Jayalalithaa and Narendra Modi. While Jayalalithaa laughed it off later, the after-effects of Modi's infamous walkout have grown worse with time. Riveting and fast-paced, Devil's Advocate is as no-holds-barred as any of Karan Thapar's interviews.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81ViBkAxwRL._SY466_.jpg",
+  "isbn": "9789352779840",
+  "pagesCount": 224,
+  "price": 368,
+  "creationDate": {
+    "$date": "2023-12-19T15:27:41.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b95502380d16087ec474"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "TO KILL A MOCKINGBIRD",
+  "author": " Harper Lee",
+  "genre": "Fiction",
+  "year": 2010,
+  "description": "'Shoot all the bluejays you want, if you can hit 'em, but remember it's a sin to kill a mockingbird.'\n\nA lawyer's advice to his children as he defends the real mockingbird of Harper Lee's classic novel - a black man falsely charged with the rape of a white girl. Through the young eyes of Scout and Jem Finch, Harper Lee explores with exuberant humour the irrationality of adult attitudes to race and class in the Deep South of the 1930s.\n\nThe conscience of a town steeped in prejudice, violence and hypocrisy is pricked by the stamina of one man's struggle for justice. But the weight of history will only tolerate so much.\n________________________________\nTo Kill a Mockingbird is a coming-of-age story, an anti-racist novel, a historical drama of the Great Depression and a sublime example of the Southern writing tradition.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81gepf1eMqL._SY466_.jpg",
+  "isbn": "0099549484",
+  "pagesCount": 320,
+  "price": 245,
+  "creationDate": {
+    "$date": "2023-12-19T15:40:05.843Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581b9c402380d16087ec479"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Wuthering Heights",
+  "author": " Emily Brontë ",
+  "genre": "Fiction",
+  "year": 2013,
+  "description": "Immerse yourself in the tempestuous world of Wuthering Heights by Emily Bronte. This hauntingly beautiful novel unravels a tale of forbidden love, revenge, and tumultuous emotions as captivating characters navigate the wild moors of 19th-century Yorkshire.\n\nA tale of passion and dark romance!\n\nEmily Bronte's iconic and haunting masterpiece\nGripping story of passionate love and bitter vendettas\nAtmospheric setting on the desolate Yorkshire moors\nComplex and deeply flawed characters that leave a lasting impact\nA timeless exploration of the destructive power of obsession and desire",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71IobR8EclL._SY466_.jpg",
+  "isbn": "8172344899",
+  "pagesCount": 376,
+  "price": 99,
+  "creationDate": {
+    "$date": "2023-12-19T15:41:56.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581ba6602380d16087ec484"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Kafka On The Shore",
+  "author": "Haruki Murakami ",
+  "genre": "Fiction",
+  "year": 2005,
+  "description": "Kafka Tamura runs away from home at fifteen, under the shadow of his father's dark prophesy.\n\nThe aging Nakata, tracker of lost cats, who never recovered from a bizarre childhood affliction, finds his pleasantly simplified life suddenly turned upside down.\n\nAs their parallel odysseys unravel, cats converse with people; fish tumble from the sky; a ghost-like pimp deploys a Hegel-spouting girl of the night; a forest harbours soldiers apparently un-aged since World War II. There is a savage killing, but the identity of both victim and killer is a riddle - one of many which combine to create an elegant and dreamlike masterpiece.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81tdbrewW0L._SY466_.jpg",
+  "isbn": "9780099458326",
+  "pagesCount": 512,
+  "price": 380,
+  "creationDate": {
+    "$date": "2023-12-19T15:44:38.965Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581bacd02380d16087ec489"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Night Circus",
+  "author": " Erin Morgenstern ",
+  "genre": "Fiction",
+  "year": 2012,
+  "description": "The circus arrives without warning. It is simply there, when yesterday it was not.\n\nAgainst the grey sky the towering tents are striped black and white. A sign hanging upon an iron gates reads:\n\nOpens at Nightfall\nCloses at Dawn\n\nFull of breath-taking amazements and open only at night, Le Cirque des Rêves seems to cast a spell over all who wander its circular paths. But behind the glittering acrobats, fortune-tellers and contortionists a fierce competition is underway.\n\nCelia and Marco are two young magicians who have been trained since childhood for a deadly duel. With the lives of everyone at the Circus of Dreams at stake, they must test the very limits of the imagination, and of their love.\n\nComplete your collection with The Starless Sea, the second novel from the author of the The Night Circus, out now.\n\n'The only response to this novel is simply: wow. It is a breath-taking feat of imagination, a flight of fancy that pulls you in and wraps you up in its spell' The Times",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/815D5sneiNL._SY466_.jpg",
+  "isbn": "9780099570295",
+  "pagesCount": 512,
+  "price": 358,
+  "creationDate": {
+    "$date": "2023-12-19T15:46:21.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581bb3302380d16087ec48e"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "1Q84: Books 1, 2 and 3",
+  "author": " Haruki Murakami ",
+  "genre": "Fiction",
+  "year": 2012,
+  "description": "The year is 1Q84. This is the real world, there is no doubt about that. But in this world, there are two moons in the sky.\n\nIn this world, the fates of two people, Tengo and Aomame, are closely intertwined. They are each, in their own way, doing something very dangerous. And in this world, there seems no way to save them both.\n\nSomething extraordinary is starting.\n\n'1Q84 has a range and sophistication that surpasses anything else in his oeuvre.' Independent on Sunday\n\n‘Murakami's magnum opus’ Japan Times\n\n‘Vibrating with wit, intellect and ambition’ The Times",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81WaPTDslGL._SY466_.jpg",
+  "isbn": "0099578077",
+  "pagesCount": 1328,
+  "price": 540,
+  "creationDate": {
+    "$date": "2023-12-19T15:48:03.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581bb8a02380d16087ec493"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Norwegian Wood",
+  "author": " Haruki Murakami",
+  "genre": "Fiction",
+  "year": 2001,
+  "description": "Read the haunting love story that turned Murakami into a literary superstar. When he hears her favourite Beatles song, Toru Watanabe recalls his first love Naoko, the girlfriend of his best friend Kizuki. Immediately he is transported back almost twenty years to his student days in Tokyo, adrift in a world of uneasy friendships, casual sex, passion, loss and desire - to a time when an impetuous young woman called Midori marches into his life and he has to choose between the future and the past. 'Evocative, entertaining, sexy and funny; but then Murakami is one of the best writers around' Time Out 'Such is the exquisite, gossamer construction of Murakami's writing that everything he chooses to describe trembles with symbolic possibility' Guardian 'This book is undeniably hip, full of student uprisings, free love, booze and 1960s pop, it's also genuinely emotionally engaging, and describes the highs of adolescence as well as the lows' Independent on Sunday",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81zqVhvbHbL._SY466_.jpg",
+  "isbn": "9780099448822",
+  "pagesCount": 400,
+  "price": 298,
+  "creationDate": {
+    "$date": "2023-12-19T15:49:30.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581bbe902380d16087ec498"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Pachinko",
+  "author": " Min Jin Lee",
+  "genre": "Fiction",
+  "year": 2022,
+  "description": "'This is a captivating book... Min Jin Lee's novel takes us through four generations and each character's search for identity and success. It's a powerful story about resilience and compassion' BARACK OBAMA.\n\nYeongdo, Korea 1911. In a small fishing village on the banks of the East Sea, a club-footed, cleft-lipped man marries a fifteen-year-old girl. The couple have one child, their beloved daughter Sunja. When Sunja falls pregnant by a married yakuza, the family face ruin. But then Isak, a Christian minister, offers her a chance of salvation: a new life in Japan as his wife.\n\nFollowing a man she barely knows to a hostile country in which she has no friends, no home, and whose language she cannot speak, Sunja's salvation is just the beginning of her story.\n\nThrough eight decades and four generations, Pachinko is an epic tale of family, identity, love, death and survival.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81UxgyI55BL._SY466_.jpg",
+  "isbn": "1838930507",
+  "pagesCount": 560,
+  "price": 437,
+  "creationDate": {
+    "$date": "2023-12-19T15:51:05.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581bc4d02380d16087ec49d"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "A Game of Thrones",
+  "author": " George R.R. Martin",
+  "genre": "Fiction",
+  "year": 2011,
+  "description": "HBO’s hit series A GAME OF THRONES is based on George R R Martin’s internationally bestselling series A SONG OF ICE AND FIRE, the greatest fantasy epic of the modern age. A GAME OF THRONES is the first volume in the series.‘So vivid that you’ll be hooked within a few pages’ The TimesSummers span decades. Winter can last a lifetime. And the struggle for the Iron Throne has begun.As Warden of the north, Lord Eddard Stark counts it a curse when King Robert bestows on him the office of the Hand. His honour weighs him down at court where a true man does what he will, not what he must … and a dead enemy is a thing of beauty.The old gods have no power in the south, Stark’s family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51ffB22hWxL._SY445_SX342_.jpg",
+  "isbn": "9780007448036",
+  "pagesCount": 816,
+  "price": 494,
+  "creationDate": {
+    "$date": "2023-12-19T15:52:45.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581bd5802380d16087ec4a3"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "City of Girls",
+  "author": " Elizabeth Gilbert",
+  "genre": "Fiction",
+  "year": 2019,
+  "description": "It is the summer of 1940. Nineteen-year-old Vivian Morris arrives in New York with her suitcase and sewing machine, exiled by her despairing parents. Although her quicksilver talents with a needle and commitment to mastering the perfect hair roll have been deemed insufficient for her to pass into her sophomore year of Vassar, she soon finds gainful employment as the self-appointed seamstress at the Lily Playhouse, her unconventional Aunt Peg's charmingly disreputable Manhattan revue theatre. There, Vivian quickly becomes the toast of the showgirls, transforming the trash and tinsel only fit for the cheap seats into creations for goddesses. Exile in New York is no exile at all: here in this strange wartime city of girls, Vivian and her girlfriends mean to drink the heady highball of life itself to the last drop. And when the legendary English actress Edna Watson comes to the Lily to star in the company's most ambitious show ever, Vivian is entranced by the magic that follows in her wake. But there are hard lessons to be learned, and bitterly regrettable mistakes to be made. Vivian learns that to live the life she wants, she must live many lives, ceaselessly and ingeniously making them new.'At some point in a woman's life, she just gets tired of being ashamed all the time. After that, she is free to become whoever she truly is,' she confides. And so Vivian sets forth her story, and that of the women around her - women who have lived as they truly are, out of step with a century that could never quite keep up with them.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81VXEqsuoXL._SY466_.jpg",
+  "isbn": "1526615231",
+  "pagesCount": 480,
+  "price": 350,
+  "creationDate": {
+    "$date": "2023-12-19T15:57:12.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c0ee02380d16087ec4ad"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Slaughterhouse 5",
+  "author": " Kurt Vonnegut",
+  "genre": "Fiction",
+  "year": 1991,
+  "description": "Billy Pilgrim - hapless barber's assistant, successful optometrist, alien abductee, senile widower and soldier - has become unstuck in time.\n\n'An extraordinary success. A book to read and reread. He is a true artist' New York Times Book Review\n\nHiding in the basement of a slaughterhouse in Dresden, with the city and its inhabitants burning above him, Billy finds himself a survivor of one of the most deadly and destructive battles of the Second World War. But when, exactly? How did he get here? And how does he get out?\nTravel through time and space on the shoulders of Vonnegut himself. This is a book about war. Listen to what he has to say: it is of the utmost urgency.\n\n'The great, urgent, passionate American writer of our century, who offers us a model of the kind of compassionate thinking that might yet save us from ourselves.' George Saunders, author of Lincoln in the Bardo",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81H8EJBf9hL._SY466_.jpg",
+  "isbn": "0099800209",
+  "pagesCount": 192,
+  "price": 418,
+  "creationDate": {
+    "$date": "2023-12-19T16:12:30.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c26a02380d16087ec4b2"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Beloved",
+  "author": " Toni Morrison",
+  "genre": "Fiction",
+  "year": 1999,
+  "description": "'An American masterpiece' AS Byatt\n\nWITH A NEW INTRODUCTION BY BOOKER PRIZE WINNER BERNARDINE EVARISTO\n\nSethe is now miles away from Sweet Home - the farm where she was kept as a slave for many years. Unable to forget the unspeakable horrors that took place there, Sethe is haunted by the violent spectre of her dead child, the daughter who died nameless and whose tombstone is etched with a single word, 'Beloved'.\n\nA tale of brutality, horror and, above all, love at any cost, Beloved is Toni Morrison's enduring masterpiece and best-known work.\n\nStunningly-designed new editions of Toni Morrison's best-known novels, published by Vintage Classics in celebration of her life and work.\n\n'The literary titian we must never stop learning from' Metro\nWinner of the PEN/Saul Bellow award for achievement in American fiction",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71qZg5ZEhpL._SY466_.jpg",
+  "isbn": "0099273934",
+  "pagesCount": 352,
+  "price": 357,
+  "creationDate": {
+    "$date": "2023-12-19T16:18:50.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c2bb02380d16087ec4b7"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "An Ember In The Ashes",
+  "author": " Sabaa Tahir",
+  "genre": "Fiction",
+  "year": 2018,
+  "description": "Keeps one reading long after the lights should have been out  Robin HobbRead the explosive New York Times bestselling debut thats captivated readers worldwide. Set to be a major motion picture, An Ember in the Ashes is the book everyone is talking about.Under the Martial Empire, defiance is met with death.When Laias grandparents are brutally murdered and her brother arrested for treason by the empire, the only people she has left to turn to are the rebels.But in exchange for their help in saving her brother, they demand that Laia spy on the ruthless Commandant of Blackcliff, the Empires greatest military academy. Should she fail its more than her brothers freedom at risk . . . Laias very life is at stake.There, she meets Elias, the academys finest soldier. But Elias wants only to be free of the tyranny hes being trained to enforce. He and Laia will soon realize that their destinies are intertwined  and that their choices will change the fate of the Empire itself.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/8130cZxl2hL._SY466_.jpg",
+  "isbn": "0008108420",
+  "pagesCount": 464,
+  "price": 357,
+  "creationDate": {
+    "$date": "2023-12-19T16:20:11.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c30502380d16087ec4bc"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Origin",
+  "author": " Dan Brown",
+  "genre": "Fiction",
+  "year": 2017,
+  "description": "The spellbinding new Robert Langdon novel from the author of The Da Vinci Code.\n\nRobert Langdon, Harvard professor of symbology and religious iconology, arrives at the Guggenheim Museum Bilbao to attend the unveiling of a discovery that \"will change the face of science forever\". The evening's host is his friend and former student, Edmond Kirsch, a forty-year-old tech magnate whose dazzling inventions and audacious predictions have made him a controversial figure around the world. This evening is to be no exception: he claims he will reveal an astonishing scientific breakthrough to challenge the fundamentals of human existence.\n\nBut Langdon and several hundred other guests are left reeling when the meticulously orchestrated evening is blown apart before Kirsch's precious discovery can be revealed. With his life under threat, Langdon is forced into a desperate bid to escape, along with the museum's director, Ambra Vidal. Together they flee to Barcelona on a perilous quest to locate a cryptic password that will unlock Kirsch's secret.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/91ZeWa2jVaL._SY466_.jpg",
+  "isbn": "0593078756",
+  "pagesCount": 544,
+  "price": 500,
+  "creationDate": {
+    "$date": "2023-12-19T16:21:25.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c41f02380d16087ec4c1"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Black Leopard, Red Wolf",
+  "author": "Marlon James",
+  "genre": "Fiction",
+  "year": 2019,
+  "description": "'Black Leopard, Red Wolf is the kind of novel I never realized I was missing until I read it. A dangerous, hallucinatory, ancient Africa, which becomes a fantasy world as well-realized as anything Tolkien made, with language as powerful as Angela Carter's. I cannot wait for the next installment' Neil GaimanIn this stunning follow-up to his Man Booker-winning A Brief History of Seven Killings, Marlon James draws on a rich tradition of African mythology, fantasy and history to imagine an ancient world, a lost child, an extraordinary hunter, and a mystery with many answers...'The child is dead. There is nothing left to know.'Tracker is a hunter, known throughout the thirteen kingdoms as one who has a nose - and he always works alone. But he breaks his own rule when, hired to find a lost child, he finds himself part of a group of hunters all searching for the same boy. Each of these companions is stranger and more dangerous than the last, from a giant to a witch to a shape-shifting Leopard, and each has secrets of their own.As the mismatched gang follow the boy's scent from perfumed citadels to infested rivers to the enchanted darklands and beyond, set upon at every turn by creatures intent on destroying them, Tracker starts to wonder: who really is this mysterious boy?",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/A1pVEPW55OL._SY466_.jpg",
+  "isbn": "0241315581",
+  "pagesCount": 640,
+  "price": 478,
+  "creationDate": {
+    "$date": "2023-12-19T16:26:07.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c57302380d16087ec4ea"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Crime And Punishment",
+  "author": " Fyodor Dostoyevsky",
+  "genre": "Mystery",
+  "year": 2017,
+  "description": "Immerse yourself in the dark and psychological depths of Crime and Punishment by Fyodor Dostoevsky. Follow the tormented Raskolnikov as he grapples with guilt, morality, and the consequences of his actions in this gripping masterpiece of Russian literature.\n\nA gripping psychological thriller!\n\nFyodor Dostoevsky's compelling exploration of guilt, redemption, and the human psyche\nGripping portrayal of a troubled protagonist caught in a web of his own crimes\nExamines themes of morality, justice, and the nature of evil\nRichly drawn characters and an atmospheric setting that immerse readers in 19th-century Russia\nA timeless classic that delves into the complexities of the human condition with unparalleled depth and intensity",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51MEKpX+7eL._SY445_SX342_.jpg",
+  "isbn": "9789386538055",
+  "pagesCount": 584,
+  "price": 349,
+  "creationDate": {
+    "$date": "2023-12-19T16:31:47.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c66502380d16087ec4f1"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Six of Crows",
+  "author": " BARDUGO LEIGH",
+  "genre": "Mystery",
+  "year": 2018,
+  "description": "*The Grishaverse will be coming to Netflix soon with Shadow and Bone, an original series!*A glorious Collector's Edition of New York Times bestselling, epic fantasy novel, SIX OF CROWS. Beautifully designed, with an exclusive letter from the author and six stunning full-colour character portraits. This covetable hardback with red sprayed edges is a perfect gift for fans, and a perfect way to discover the unforgettable writing of Leigh Bardugo.Criminal prodigy Kaz Brekker is offered a chance at a deadly heist: break into the Ice Court - a military stronghold that has never been breached - and retrieve a hostage whose knowledge could change Grisha magic forever. To succeed would mean riches beyond his wildest dreams - but he can't pull it off alone . . .A convict with a thirst for revenge. A sharpshooter who can't walk away from a wager.A runaway with a privileged past. A spy known as the Wraith. A Heartrender using her magic to survive the slums. A thief with a gift for unlikely escapes. Six dangerous outcasts. One impossible heist. Together they might just be unstoppable - if they don't kill each other first.'Fast, thrilling heist fantasy, boasting a brilliant new cast of characters.' METRO'A full-throttle adventure . . . crackling dialogue and sumptuous description. Bardugo dives deep into this world.' - NEW YORK TIMES",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/91-JO-S2bFL._SY466_.jpg",
+  "isbn": "1510106286",
+  "pagesCount": 512,
+  "price": 349,
+  "creationDate": {
+    "$date": "2023-12-19T16:35:49.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c6c202380d16087ec4f6"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Dark Matter",
+  "author": " Blake Crouch",
+  "genre": "Mystery",
+  "year": 2017,
+  "description": "'Brilliant. . . I think Blake Crouch just invented something new' Lee Child, author of the Jack Reacher series.From Blake Crouch, the author of the bestselling Wayward Pines trilogy, Dark Matter is sweeping and intimate, mind-bendingly strange and profoundly human ? a relentlessly surprising thriller about choices, paths not taken, and how far we'll go to claim the lives we dream of, perfect for fans of Stranger Things and Ready Player One.'Are you happy in your life?'Those are the last words Jason Dessen hears before the masked abductor knocks him unconscious. Before he awakes to find himself strapped to a gurney, surrounded by strangers in hazmat suits. Before the man he's never met smiles down at him and says, 'Welcome back.'In this world he's woken up to, Jason's life is not the one he knows. His wife is not his wife. His son was never born. And Jason is not an ordinary college physics professor, but a celebrated genius who has achieved something remarkable. Something impossible.Is it this world or the other that's the dream? And even if the home he remembers is real, how can Jason possibly make it back to the family he loves? The answers lie in a journey more wondrous and horrifying than anything he could've imagined ? one that will force him to confront the darkest parts of himself even as he battles a terrifying, seemingly unbeatable foe.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81xS77gfCgL._SY466_.jpg",
+  "isbn": "9781447297581",
+  "pagesCount": 416,
+  "price": 455,
+  "creationDate": {
+    "$date": "2023-12-19T16:37:22.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c71902380d16087ec4fb"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "LOST SYMBOL",
+  "author": "BROWN DAN",
+  "genre": "Mystery",
+  "year": 2010,
+  "description": "\nThe Capitol Building, Washington DC: Harvard symbologist Robert Langdon believes he is here to give a lecture. He is wrong. Within minutes of his arrival, a shocking object is discovered. It is a gruesome invitation into an ancient world of hidden wisdom.\n\nWhen Langdon's mentor, Peter Solomon - prominent mason and philanthropist - is kidnapped, Langdon realizes that his only hope of saving his friend's life is to accept this mysterious summons.\n\nIt is to take him on a breathless chase through Washington's dark history. All that was familiar is changed into a shadowy, mythical world in which Masonic secrets and never-before-seen revelations seem to be leading him to a single impossible and inconceivable truth...",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81BlXbpNmuL._SY466_.jpg",
+  "isbn": "0552161233",
+  "pagesCount": 688,
+  "price": 355,
+  "creationDate": {
+    "$date": "2023-12-19T16:38:49.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c77802380d16087ec500"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Hamlet",
+  "author": " William Shakespeare ",
+  "genre": "Mystery",
+  "year": 2015,
+  "description": "In the Kingdom of Denmark, on a cold winter night, appears the ghost of the deceased King..What happens when Hamlet, the Prince of Denmark, encounters his father?s ghost which reveals to him the secrets of his father?s murder, laying upon him the duty of revenge?Unconvinced and indecisive, Hamlet?the Prince of Demark, re-enacts the murder to find the truth. Will he be able to unmask and avenge the brutal and cold-blooded murder of his father? Will his inner struggle between taking a revenge and his propensity to delay thwart his desires to act?A typical Elizabethan Revenge Play, Hamlet is Shakespeare?s longest play and one of the most quoted works in English language. it is described as ?the world?s most filmed story after Cinderella?.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61ewyOG0IZS._SY466_.jpg",
+  "isbn": "9788175992924",
+  "pagesCount": 200,
+  "price": 114,
+  "creationDate": {
+    "$date": "2023-12-19T16:40:24.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c7de02380d16087ec50e"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Macbeth",
+  "author": "William Shakespeare ",
+  "genre": "Mystery",
+  "year": 2016,
+  "description": "Enter the dark and captivating world of Shakespeare's tragedy with Macbeth. This timeless play takes you on a thrilling journey through ambition, power, and the destructive forces of guilt. Immerse yourself in the gripping tale of Macbeth's tragic downfall, where supernatural elements and human frailties collide.\n\nA must-read for fans of Shakespearean drama and literary enthusiasts\nEssential resource for students, scholars, and lovers of literature\nA beautifully designed edition that is a valuable addition to any book collection\nFeatures a new introduction and notes by a leading Shakespeare scholar\nIntriguing blend of supernatural elements and human frailties",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51EwEqnnuVL._SY466_.jpg",
+  "isbn": "9788175994195",
+  "pagesCount": 160,
+  "price": 99,
+  "creationDate": {
+    "$date": "2023-12-19T16:42:06.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c83a02380d16087ec513"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Modern Break-Up",
+  "author": "Daniel Chidiac",
+  "genre": "Mystery",
+  "year": 2021,
+  "description": " \"Now I know what all the hype is about! Such a relatable read!\" - Addison Rae, Actress___A novel full of truths about dating, separations and love: direct, raw and damn revealing!After a sudden end with another guy she finally opened-up to, Amelia is thrown into a vortex of conflicting thoughts and emotions.Once again, she is forced to reflect on her life and what dating means in the modern world.The answers she finds, especially through a new male friend who unveils the way guys \"really\" think, makes her even more determined to find something more real.It all helps set her free...maybe...\"I resonated with the characters so much, especially Amelia. It's not just a story about a breakup, but so much more and deeper than that.\" - Demi Rose, Model\"Honestly, blew my mind how accurate it is. Definitely recommend!\" - Lizzie Sobinoff, Married At First Sight (MAFS)The Modern Break-Up was listed among the top romance novels to read by P.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51RV42m6wVL._SY466_.jpg",
+  "isbn": "0987166557",
+  "pagesCount": 244,
+  "price": 289,
+  "creationDate": {
+    "$date": "2023-12-19T16:43:38.008Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581c9f902380d16087ec51a"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Where the Crawdads Sing",
+  "author": " Delia Owens",
+  "genre": "Mystery",
+  "year": 2019,
+  "description": "*The multi-million copy bestseller*Soon to be a major filmA Number One New York Times Bestseller'Painfully beautiful' New York Times'Unforgettable . . . as engrossing as it is moving' Daily Mail'A rare achievement' The Times 'I can't even express how much I love this book!' Reese Witherspoon-------------------------------------------------For years, rumors of the 'Marsh Girl' have haunted Barkley Cove, a quiet town on the North Carolina coast. So in late 1969, when handsome Chase Andrews is found dead, the locals immediately suspect Kya Clark, the so-called Marsh Girl. But Kya is not what they say. Sensitive and intelligent, she has survived for years alone in the marsh that she calls home, finding friends in the gulls and lessons in the sand. Then the time comes when she yearns to be touched and loved. When two young men from town become intrigued by her wild beauty, Kya opens herself to a new life - until the unthinkable happens.-------------------------------------------------'[It] will reach a huge audience through the writer's old-fashioned talents for compelling character, plotting and landscape description' The Guardian 'For sheer escapism pick up Where The Crawdads Sing . . . there is writing that takes your breath away' The Times'All is not as it seems in this heartbreaking coming-of-age bestseller' The i newspaper",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81e+mSqZvnL._SY466_.jpg",
+  "isbn": "1472154665",
+  "pagesCount": 384,
+  "price": 289,
+  "creationDate": {
+    "$date": "2023-12-19T16:51:05.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581ca6602380d16087ec521"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "REBECCA ",
+  "author": "Daphne Du Maurier",
+  "genre": "Mystery",
+  "year": 2003,
+  "description": "One of the most famous novels of the 20th century. A gothic tale of love, murder and secrets.'Rebecca has woven its way into the fabric of our culture with all the troubling power of myth or dream.' Sarah Waters'Rebecca is a masterpiece' GuardianWorking as a lady's companion, the orphaned heroine of Rebecca learns her place. Life begins to look very bleak until, on a trip to the South of France, she meets Maxim de Winter, a handsome widower whose sudden proposal of marriage takes her by surprise. Whisked from glamorous Monte Carlo to his brooding estate, Manderley, on the Cornish Coast, the new Mrs de Winter finds Max a changed man. And the memory of his dead wife Rebecca is forever kept alive by the forbidding Mrs Danvers . . . Not since Jane Eyre has a heroine faced such difficulty with the Other Woman. An international bestseller that has never gone out of print, Rebecca is the haunting story of a young girl consumed by love and the struggle to find her identity.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81PyWcpC0xL._SY466_.jpg",
+  "isbn": "9781844080380",
+  "pagesCount": 448,
+  "price": 393,
+  "creationDate": {
+    "$date": "2023-12-19T16:52:54.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581cac602380d16087ec526"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Godfather",
+  "author": "Mario Puzo ",
+  "genre": "Mystery",
+  "year": 1991,
+  "description": "A legend is born\nMario Puzo's novel, The Godfather, has dominated the cinema and book culture for years and left behind an unparalleled legacy. The superlatives used to describe the life and times of Don Corleone, a renowned Sicilian mobster and a feared mafia lord of the Cosa Nostra in the 60's New York and his familial ties portray a powerful picture of the mafia world. The characters have been described as gritty and hardened at first; but slowly the novel reveals how greed and ambition transforms a man from a powerful entity to a sad microcosm. Amidst all the violence and chaos, readers are left with the most spine-chilling questions of all: How far would you go to save your family?",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61RZI1cKZUL._SY466_.jpg",
+  "isbn": "0099429284",
+  "pagesCount": 608,
+  "price": 250,
+  "creationDate": {
+    "$date": "2023-12-19T16:54:30.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581cb5f02380d16087ec531"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "WISH I COULD TELL YOU",
+  "author": " Durjoy Datta",
+  "genre": "Romance",
+  "year": 2019,
+  "description": "Can you find yourself after you have lost that special someone?\nA disillusioned and heartbroken Anusha finds herself in the small world of WeDonate.com. Struggling to cope with her feelings and the job of raising money for charity, she reluctantly searches for a worthwhile cause to support.\nFor Ananth, who has been on the opposite side, no life is less worthy, no cause too small to support.\nBehind them are teams for whom going to extraordinary lengths to save lives is more than a full-time occupation. In front of them is the virtual world of social media-watching, interacting, judging, making choices, and sometimes, saving lives.\nFrom the virtual to the real, their lives and that of their families, entangle in a way that moving together is the only solution. They can't escape each other.\nIn this world of complicated relationships, should love be such a difficult ride?",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/91R5TW7tdzL._SY466_.jpg",
+  "isbn": "0143448331",
+  "pagesCount": 288,
+  "price": 156,
+  "creationDate": {
+    "$date": "2023-12-19T16:57:03.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581cbdd02380d16087ec536"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "ME BEFORE YOU",
+  "author": " Jojo Moyes",
+  "genre": "Romance",
+  "year": 2012,
+  "description": "Lou Clark know how many steps from the bus stop to her house. She knows that she really likes working in cafes and that, most likely, she does not love her boyfriend Patrick. But Lou doesn't know what's going to lose his job and that in the near future she will need all the strength to overcome the problems piled on her.\nWill Traynor knows what hit him, the motorcyclist took away his desire to live. And he knows exactly what needs to be done to put an end to all this. But he doesn't know that Lou will soon burst into his world in a riot of colors. And they both don't know that will forever change the lives of each other.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71+YK9HSaJL._SY466_.jpg",
+  "isbn": "0718157834",
+  "pagesCount": 528,
+  "price": 300,
+  "creationDate": {
+    "$date": "2023-12-19T16:59:09.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581cc3d02380d16087ec53b"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "THE CUCKOO'S CALLING",
+  "author": " Robert Galbraith ",
+  "genre": "Romance",
+  "year": 2014,
+  "description": "The Cuckoo's Calling reminds me why I fell in love with crime fiction in the first place' VAL MCDERMID-----Now a major BBC drama: The Strike seriesWhen a troubled model falls to her death from a snow-covered Mayfair balcony, it is assumed that she has committed suicide. However, her brother has his doubts, and calls in private investigator Cormoran Strike to look into the case. Strike is a war veteran - wounded both physically and psychologically - and his life is in disarray. The case gives him a financial lifeline, but it comes at a personal cost: the more he delves into the young model's complex world, the darker things get - and the closer he gets to terrible danger . . . A gripping, elegant mystery steeped in the atmosphere of London - from the hushed streets of Mayfair to the backstreet pubs of the East End to the bustle of Soho - The Cuckoo's Calling is a remarkable book. Introducing Cormoran Strike, this is the acclaimed first crime novel by J. K. Rowling, writing under the pseudonym Robert Galbraith. *** The latest book in the thrilling Strike series, TROUBLED BLOOD, is out now! ***-----PRAISE FOR THE STRIKE SERIES: 'One of the most unique and compelling detectives I've come across in years' MARK BILLINGHAM'The work of a master storyteller' DAILY TELEGRAPH'Unputdownable. . . Irresistible' SUNDAY TIMES'Will keep you up all night' OBSERVER'A thoroughly enjoyable classic' PETER JAMES, SUNDAY EXPRESS",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81tTQKv-P7L._SY466_.jpg",
+  "isbn": "0751549258",
+  "pagesCount": 560,
+  "price": 349,
+  "creationDate": {
+    "$date": "2023-12-19T17:00:45.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581cca502380d16087ec540"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Friend Zone",
+  "author": " Abby Jimenez",
+  "genre": "Romance",
+  "year": 2019,
+  "description": "Kristen Petersen is perfectly fine. She has friends she'd fight to the death for and the very best dog in the world: Stuntman Mike. In fact, everything's calm in the world of Kristen, until she starts to plan her best friend's wedding and meets the best man, Josh Copeland.\n\nJosh is funny, sexy, stands up to her sarcasm, and is always one snack ahead of her hangry. Even Stuntman Mike adores him. But he wants a big family, and Kristen knows children are probably not a part of her future.\n\nShe's sure he'd be better off with someone else, someone who can give him everything he wants, so Kristen keeps him at arm's length: in the Friend Zone. But as their attraction grows, it's harder and harder to resist falling for the man who seems to be everything she's not allowed to have . . .",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/711QH656UfL._SY466_.jpg",
+  "isbn": "0349423407",
+  "pagesCount": 384,
+  "price": 899,
+  "creationDate": {
+    "$date": "2023-12-19T17:02:29.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581cd5402380d16087ec54b"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "See Her Die",
+  "author": " Melinda Leigh",
+  "genre": "Romance",
+  "year": 2020,
+  "description": "Sheriff Bree Taggert is both hunter and hunted in #1 Amazon Charts and Wall Street Journal bestselling author Melinda Leigh’s blood-freezing thriller of murder, rage, and revenge. New sheriff Bree Taggert is called to a shooting in a campground shuttered for the winter. But she arrives to find a perplexing crime. There is no shooter, no victim, and no blood. No one but Bree believes the sole witness, Alyssa, a homeless teenager who insists she saw her friend shot. Bree calls in former deputy Matt Flynn and his K-9 to track the killer and search for Alyssa’s friend. They discover the battered corpse of a missing university student under the ice in Grey Lake―but it’s not the victim they were looking for. When two more students go missing and additional bodies turn up, Bree must find the link between the victims. She knows only one thing for certain: the murders are fueled by rage. When Alyssa disappears, Bree must race against time to find her before her witness becomes another victim",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81vS6l8v60L._SY466_.jpg",
+  "isbn": "1542006961",
+  "pagesCount": 320,
+  "price": 800,
+  "creationDate": {
+    "$date": "2023-12-19T17:05:24.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581d24402380d16087ec554"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Life After Life",
+  "author": " Kate Atkinson",
+  "genre": "Romance",
+  "year": 2014,
+  "description": "'Dazzling, witty, moving, joyful, mournful, profound. Wildly inventive, deeply felt. Hilarious. Humane. Simply put: it's one of the best novels I've read this century' Gillian Flynn, bestselling author of GONE GIRL'A box of delights. Ingenious in construction, indefatigably entertaining, it grips the reader's imagination on the first page and never lets go.' HILARY MANTEL, author of THE MIRROR AND THE LIGHTWhat if you had the chance to live your life again and again, until you finally got it right?During a snowstorm in England in 1910, a baby is born and dies before she can take her first breath.During a snowstorm in England in 1910, the same baby is born and lives to tell the tale.What if there were second chances? And third chances? In fact an infinite number of chances to live your life? Would you eventually be able to save the world from its own inevitable destiny? And would you even want to?Life After Life follows Ursula Todd as she lives through the turbulent events of the last century again and again. ",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71q6y0hWveS._SY466_.jpg",
+  "isbn": "9780552776639",
+  "pagesCount": 624,
+  "price": 318,
+  "creationDate": {
+    "$date": "2023-12-19T17:26:28.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581d29802380d16087ec559"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "THE LONGEST RIDE",
+  "author": " Nicholas Sparks ",
+  "genre": "Romance",
+  "year": 2013,
+  "description": "Ninety-one year old Ira Levinson is in trouble. Struggling to stay conscious after a car crash, with his mind fading, an image of his beloved, and long-dead, wife Ruth appears. Urging him to hang on, she lovingly recounts the joys and sorrows of their life together - how they met, the dark days of WWII, and its unrelenting effect on their families.A few miles away, college student Sophia Danko's life is about to change. Recovering from a break-up, she meets the young, rugged Luke and is thrown into a world far removed from her privileged school life. Sophia sees a new and tantalising future for herself, but Luke has a secret which threatens it all.Ira and Ruth. Sophia and Luke. Two couples, separated by years and experience, whose lives are about to converge in the most unexpected - and shocking - of ways.The new epic love story from the multi-million-copy bestselling author of The Notebook, The Lucky One and The Best of Me. Nicholas Sparks is one of the world's most beloved authors.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81+Ae7W7DfL._SY466_.jpg",
+  "isbn": "9780751549973",
+  "pagesCount": 480,
+  "price": 245,
+  "creationDate": {
+    "$date": "2023-12-19T17:27:52.705Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581d33b02380d16087ec55e"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Lucky One",
+  "author": " Nicholas Sparks ",
+  "genre": "Romance",
+  "year": 2012,
+  "description": "Do you believe in lucky charms?\n\nWhile in Iraq, U.S. Marine Logan Thibault finds a photo, half-buried in the dirt, of a woman. He carries it in his pocket, and from then on his luck begins to change.\n\nBack home, Logan is haunted by thoughts of war. Over time, he becomes convinced that the woman in the photo holds the key to his destiny. So he finds the vulnerable and loving Beth and a passionate romance begins.\n\nBut Logan battles with the one secret he has kept from Beth: how he found her in the first place. And it is a secret that could utterly destroy everything they love . . .",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81THiUMrYvL._SY466_.jpg",
+  "isbn": "1455508969",
+  "pagesCount": 368,
+  "price": 250,
+  "creationDate": {
+    "$date": "2023-12-19T17:30:35.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581d3a202380d16087ec563"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Duke Effect",
+  "author": " Sophie Jordan ",
+  "genre": "Romance",
+  "year": 2020,
+  "description": "New York Times and USA Today bestselling author Sophie Jordan continues her bestselling Rogue Files series with this captivating romance that will thrill her many fans.She doesn’t care about love…Despite being surrounded by her happily wed sisters, Nora Langley prefers botany to ballrooms and would rather spend a lifetime in her laboratory than consider affairs of the heart. An expert herbalist, Nora has been masquerading as her late physician father for years, dispensing invaluable medical advice. She corresponds with people all over the world, including an old army colonel. But when the man shows up on her doorstep, he is nothing like she expected—he is a young, handsome heir to a dukedom who suddenly threatens everything she holds dear.He only cares about duty…Constantine Sinclair arrives on the Langley doorstep in a desperate bid to save the woman who raised him, the Duchess of Birchwood … only to discover that the venerable doctor he expected is a bold and lovely charlatan. Furious at the deception, he vows to reveal her secrets. Determined to prove her skills, Nora promises to save the duchess in exchange for Con keeping her secret. Con reluctantly agrees… and soon Nora’s brilliant, headstrong ways are throwing his carefully controlled life into chaos. What happens when the rigid soldier begins to lose his grip on his heart?",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81o283eJ9FL._SY466_.jpg",
+  "isbn": "0062885456",
+  "pagesCount": 352,
+  "price": 355,
+  "creationDate": {
+    "$date": "2023-12-19T17:32:18.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581d43a02380d16087ec56e"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Sapiens",
+  "author": "Yuval Noah Harari",
+  "genre": "Science",
+  "year": 2015,
+  "description": "'Interesting and provocative... It gives you a sense of how briefly we've been on this Earth' Barack Obama\n\nWhat makes us brilliant? What makes us deadly? What makes us Sapiens?\n\nOne of the world's preeminent historians and thinkers, Yuval Noah Harari challenges everything we know about being human.\n\nEarth is 4.5 billion years old. In just a fraction of that time, one species among countless others has conquered it: us.\n\nIn this bold and provocative book, Yuval Noah Harari explores who we are, how we got here and where we're going.\n\n**ONE OF THE GUARDIAN'S 100 BEST BOOKS OF THE 21st CENTURY**",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/713jIoMO3UL._SY466_.jpg",
+  "isbn": "0099590085",
+  "pagesCount": 512,
+  "price": 468,
+  "creationDate": {
+    "$date": "2023-12-19T17:34:50.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581d48f02380d16087ec573"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Power of Your Subconscious Mind",
+  "author": " Joseph Murphy ",
+  "genre": "Science",
+  "year": 2015,
+  "description": "This remarkable book by Dr. Joseph Murphy, one of the pioneering voices of affirmative thinking, will unlock for you the truly staggering powers of your subconscious mind. Combining time-honored spiritual wisdom with cutting edge scientific research, Dr. Murphy explains how the subconscious mind influences every single thing that you do and how, by understanding it and learning to control its incredible force, you can improve the quality of your daily life.Everything, from the promotion that you wanted and the raise you think you deserve, to overcoming phobias and bad habits and strengthening interpersonal relationships, the Power of Your Subconscious Mind will open a world of happiness, success, prosperity and peace for you. It will change your life and your world by changing your beliefs.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61jBLw5Bq9L._SY466_.jpg",
+  "isbn": "8172345666",
+  "pagesCount": 256,
+  "price": 99,
+  "creationDate": {
+    "$date": "2023-12-19T17:36:15.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581d4f802380d16087ec578"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "HOOKED ",
+  "author": " Nir Eyal",
+  "genre": "Science",
+  "year": 2014,
+  "description": "Nir Eyal reveals how successful companies create products people can't put down - and shows how you can do it too.\n\nINTERNATIONAL BESTSELLER WITH OVER 500,000 COPIES SOLD WORLDWIDE\n\nBased on years of research, consulting, and practical experience, Hooked:\n\n* Shows how to create user habits that stick\n* Includes practical insights and riveting examples, from the iPhone to Twitter, Pinterest and the Bible App\n* Explains how products influence our behaviour\n\n'A must-read for everyone who cares about driving customer engagement' Eric Ries, author of The Lean Startup\n\n'The most high bandwidth, high octane, and valuable presentation I have ever seen on this subject' Rory Sutherland, vice chairman, Ogilvy & Mather",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81L8JOVXJtL._SY466_.jpg",
+  "isbn": "0241184835",
+  "pagesCount": 256,
+  "price": 487,
+  "creationDate": {
+    "$date": "2023-12-19T17:38:00.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581d55902380d16087ec57d"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Black Holes",
+  "author": "Stephen Hawking ",
+  "genre": "Science",
+  "year": 2016,
+  "description": "“It is said that fact is sometimes stranger than fiction, and nowhere is that more true than in the case of black holes. Black holes are stranger than anything dreamed up by science fiction writers.”\n\nIn 2016 Professor Stephen Hawking delivered the BBC Reith Lectures on a subject that fascinated him for decades – black holes.\n\nIn these flagship lectures the legendary physicist argued that if we could only understand black holes and how they challenge the very nature of space and time, we could unlock the secrets of the universe.\n\n",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/91elhBJsITL._SY466_.jpg",
+  "isbn": "085750357X",
+  "pagesCount": 80,
+  "price": 96,
+  "creationDate": {
+    "$date": "2023-12-19T17:39:37.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581d5c102380d16087ec582"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Selfish Gene",
+  "author": " Richard Dawkins ",
+  "genre": "Science",
+  "year": 2016,
+  "description": "The million copy international bestseller, critically acclaimed and translated into over 25 languages. As influential today as when it was first published, The Selfish Gene has become a classic exposition of evolutionary thought. Professor Dawkins articulates a gene's eye view of evolution - a view giving center stage to these persistent units of information and in which organisms can be seen as vehicles for their replication. This imaginative, powerful and stylistically brilliant work not only brought the insights of Neo-Darwinism to a wide audience, but galvanized the biology community, generating much debate and stimulating whole new areas of research. Forty years later, its insights remain as relevant today as on the day it was published. This 40th anniversary edition includes a new epilogue from the author discussing the continuing relevance of these ideas in evolutionary biology today, as well as the original prefaces and foreword and extracts from early reviews. Oxford Landmark Science books are 'must-read' classics of modern science writing which have crystallized big ideas and shaped the way we think.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61CXvkfdXlL._SY466_.jpg",
+  "isbn": "0198788606",
+  "pagesCount": 496,
+  "price": 320,
+  "creationDate": {
+    "$date": "2023-12-19T17:41:21.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581d63302380d16087ec587"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "The Brain",
+  "author": " David Eagleman ",
+  "genre": "Science",
+  "year": 2016,
+  "description": "Locked in the silence and darkness of your skull, your brain fashions the rich narratives of your reality and your identity. Join renowned neuroscientist David Eagleman for a journey into the questions at the mysterious heart of our existence. What is reality? Who are “you”? How do you make decisions? Why does your brain need other people? How is technology poised to change what it means to be human?  In the course of his investigations, Eagleman guides us through the world of extreme sports, criminal justice, facial expressions, genocide, brain surgery, gut feelings, robotics, and the search for immortality.  Strap in for a whistle-stop tour into the inner cosmos. In the infinitely dense tangle of billions of brain cells and their trillions of connections, something emerges that you might not have expected to see in there: you. \n \nThis is the story of how your life shapes your brain, and how your brain shapes your life. ",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81Uig65WakL._SY466_.jpg",
+  "isbn": "1782116613",
+  "pagesCount": 256,
+  "price": 428,
+  "creationDate": {
+    "$date": "2023-12-19T17:43:15.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581d6a702380d16087ec58c"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Relativity",
+  "author": " Albert Einstein",
+  "genre": "Science",
+  "year": 2013,
+  "description": "Albert Einstein is the unquestioned founder of modern physics. His theory of relativity is the most important scientific idea of the modern era. In this book Einstein explains, using the minimum of mathematical terms, the basic ideas and principles of the theory which has shaped the world we live in today. Unsurpassed by any subsequent books on relativity, this remains the most popular and useful exposition of Einstein’s immense contribution to human knowledge.\n\nIn this work Einstein intended, as far as possible, to give an exact insight into the theory of relativity to those readers who, from a general and scientific philosophical point of view, are interested in the theory, but who are not conversant with the mathematical apparatus of theoretical physics. The theory of relativity enriched physics and astronomy during the 20th century.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/6177hCt1X2L._SY466_.jpg",
+  "isbn": "9380914229",
+  "pagesCount": 200,
+  "price": 179,
+  "creationDate": {
+    "$date": "2023-12-19T17:45:11.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581d81a02380d16087ec591"
+  },
+  "currentRating": 0,
+  "ratingPoints": 0,
+  "ratedCount": 0,
+  "ratedBy": [],
+  "purchasesCount": 0,
+  "comments": [],
+  "title": "Hyperspace",
+  "author": "Michio Kaku",
+  "genre": "Science",
+  "year": 1995,
+  "description": "From the renowned theoretical physicist and national bestselling author of The God Equation comes the first book-length exploration of the most exciting development in modern physics: the theory of 10-dimensional space.\n\n\"Among the best of its genre to appear in recent years...What a wonderful adventure it is, trying to think the unthinkable!\" —The New York Times Book Review\n\nThe theory of hyperspace, which Michio Kaku pioneered, may be the leading candidate for the Theory of Everything that Einstein spent the remaining years of his life searching for.",
+  "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61koVOT1bmL._SY466_.jpg",
+  "isbn": "0385477058",
+  "pagesCount": 384,
+  "price": 628,
+  "creationDate": {
+    "$date": "2023-12-19T17:51:22.333Z"
+  },
+  "__v": 0
+}]
